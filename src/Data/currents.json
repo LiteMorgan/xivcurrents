@@ -1,0 +1,1043 @@
+[
+  {
+    "id": 1,
+    "expansion": 1,
+    "type": "quest",
+    "title": "For All The Nights To Come (Lv. 51)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Sounding Out The Amphitheatre</em>, and requires completion of <em>The Dusk Vigil</em>.",
+    "url": "",
+    "coords": {
+      "x": "16.9",
+      "y": "22.8",
+      "z": "0.7"
+    }
+  },
+  {
+    "id": 2,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Baby Steps (Lv. 51)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Sounding Out The Amphitheatre</em>.",
+    "url": "",
+    "coords": {
+      "x": "16.7",
+      "y": "22.8",
+      "z": "0.7"
+    }
+  },
+  {
+    "id": 3,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Protecting What's Important (Lv. 51)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Camp of the Convictors</em>.",
+    "url": "",
+    "coords": {
+      "x": "16.5",
+      "y": "22.5",
+      "z": "0.7"
+    }
+  },
+  {
+    "id": 4,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Bridge Over Frozen Water (Lv. 50)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Disclosure</em>.",
+    "url": "",
+    "coords": {
+      "x": "32.4",
+      "y": "35.8",
+      "z": "1.4"
+    }
+  },
+  {
+    "id": 5,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Purple Flame, Purple Flame (Lv. 51)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Camp of the Convictor</em>.",
+    "url": "",
+    "coords": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  {
+    "id": 6,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 1",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "20.8",
+      "y": "21.3",
+      "z": "0.5"
+    }
+  },
+  {
+    "id": 7,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 2",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "30.0",
+      "y": "19.3",
+      "z": "1.0"
+    }
+  },
+  {
+    "id": 8,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 3",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "29.1",
+      "y": "26.2",
+      "z": "0"
+    }
+  },
+  {
+    "id": 9,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 4",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "16.3",
+      "y": "18.7",
+      "z": "0.4"
+    }
+  },
+  {
+    "id": 10,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 5",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "9.3",
+      "y": "15.0",
+      "z": "0.8"
+    }
+  },
+  {
+    "id": 11,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 6",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "15.8",
+      "y": "22.3",
+      "z": "0"
+    }
+  },
+  {
+    "id": 12,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 7",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "20.5",
+      "y": "8.9",
+      "z": "0"
+    }
+  },
+  {
+    "id": 13,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 8",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "31.5",
+      "y": "11.8",
+      "z": "0"
+    }
+  },
+  {
+    "id": 14,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 9",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "35.1",
+      "y": "27.0",
+      "z": "0.2"
+    }
+  },
+  {
+    "id": 15,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 10",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "30.6",
+      "y": "33.7",
+      "z": "0"
+    }
+  },
+  {
+    "id": 16,
+    "expansion": 1,
+    "type": "quest",
+    "title": "A Lesson in Humility (Lv. 53)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>A Gnathic Deity</em>.",
+    "url": "",
+    "coords": {
+      "x": "16.5",
+      "y": "23.0",
+      "z": "1.9"
+    }
+  },
+  {
+    "id": 17,
+    "expansion": 1,
+    "type": "quest",
+    "title": "The Hunter Becomes the Kweh (Lv. 53)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>A Gnathic Deity<em>.",
+    "url": "",
+    "coords": {
+      "x": "31.9",
+      "y": "22.9",
+      "z": "1.0"
+    }
+  },
+  {
+    "id": 18,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Stolen Munitions (Lv. 52)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>The Nonmind</em>.",
+    "url": "",
+    "coords": {
+      "x": "23.9",
+      "y": "19.7",
+      "z": "1.0"
+    }
+  },
+  {
+    "id": 19,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Some Bad News (Lv. 52)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Where The Chocobos Roam</em>.",
+    "url": "",
+    "coords": {
+      "x": "31.9",
+      "y": "22.9",
+      "z": "1.0"
+    }
+  },
+  {
+    "id": 20,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Mourn in Passing (Lv. 53)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Lord of the Hive</em>, and requires completion of <em>Sohm Al</em>.",
+    "url": "",
+    "coords": {
+      "x": "0",
+      "y": "0",
+      "z": "0"
+    }
+  },
+  {
+    "id": 21,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 1",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "30.6",
+      "y": "36.2",
+      "z": "0.6"
+    }
+  },
+  {
+    "id": 22,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 2",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "17.3",
+      "y": "29.6",
+      "z": "0.9"
+    }
+  },
+  {
+    "id": 23,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 3",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "14.4",
+      "y": "27.0",
+      "z": "1.2"
+    }
+  },
+  {
+    "id": 24,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 4",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "12.9",
+      "y": "14.0",
+      "z": "1.5"
+    }
+  },
+  {
+    "id": 25,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 5",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "26.7",
+      "y": "30.0",
+      "z": "0.6"
+    }
+  },
+  {
+    "id": 26,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 6",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "24.5",
+      "y": "19.8",
+      "z": "1.0"
+    }
+  },
+  {
+    "id": 27,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 7",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "32.3",
+      "y": "23.6",
+      "z": "1.0"
+    }
+  },
+  {
+    "id": 28,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 8",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "31.2",
+      "y": "16.8",
+      "z": "1.0"
+    }
+  },
+  {
+    "id": 29,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 9",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "39.9",
+      "y": "21.9",
+      "z": "1.1"
+    }
+  },
+  {
+    "id": 30,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 10",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "37.8",
+      "y": "28.3",
+      "z": "1.4"
+    }
+  },
+  {
+    "id": 31,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Waiting to Inhale (Lv. 54)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Heart of Ice</em>.",
+    "url": "",
+    "coords": {
+      "x": "32",
+      "y": "15",
+      "z": "0"
+    }
+  },
+
+  {
+    "id": 32,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Hide Your Moogles (Lv. 54)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>The Wyrm's Lair</em>.",
+    "url": "",
+    "coords": {
+      "x": "12",
+      "y": "29",
+      "z": "0"
+    }
+  },
+  {
+    "id": 33,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Road Kill (Lv. 54)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Leaving Moghome</em>.",
+    "url": "",
+    "coords": {
+      "x": "27",
+      "y": "33",
+      "z": "0"
+    }
+  },
+  {
+    "id": 34,
+    "expansion": 1,
+    "type": "quest",
+    "title": "The Bathing Bully (Lv. 54)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Moghan's Trial</em>.",
+    "url": "",
+    "coords": {
+      "x": "29",
+      "y": "36",
+      "z": "0"
+    }
+  },
+  {
+    "id": 35,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Into the Aery (Lv. 55)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Ready to Fly</em>, and requires completion of <em>The Aery</em>. It is located in Foundation, Ishgard.",
+    "url": "",
+    "coords": {
+      "x": "13",
+      "y": "11",
+      "z": "0"
+    }
+  },
+  {
+    "id": 36,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 1",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "29.3",
+      "y": "19.9",
+      "z": "0.5"
+    }
+  },
+  {
+    "id": 37,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 2",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "35.9",
+      "y": "33.8",
+      "z": "0.4"
+    }
+  },
+  {
+    "id": 38,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 3",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "34.5",
+      "y": "15.8",
+      "z": "0.7"
+    }
+  },
+  {
+    "id": 39,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 4",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "27.4",
+      "y": "26.1",
+      "z": "0.6"
+    }
+  },
+  {
+    "id": 40,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 5",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "21.0",
+      "y": "30.1",
+      "z": "0.8"
+    }
+  },
+  {
+    "id": 41,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 6",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "16.9",
+      "y": "33.6",
+      "z": "1.1"
+    }
+  },
+  {
+    "id": 42,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 7",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "7.0",
+      "y": "27.4",
+      "z": "2.0"
+    }
+  },
+  {
+    "id": 43,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 8",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "20.8",
+      "y": "27.4",
+      "z": "0.7"
+    }
+  },
+  {
+    "id": 44,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 9",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "30.9",
+      "y": "35.7",
+      "z": "0.3"
+    }
+  },
+  {
+    "id": 45,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 10",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "28.4",
+      "y": "28.3",
+      "z": "0.4"
+    }
+  },
+  {
+    "id": 46,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Flying the Nest (Lv. 57)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Black and the White</em>.",
+    "url": "",
+    "coords": {
+      "x": "10.6",
+      "y": "14.8",
+      "z": "1.8"
+    }
+  },
+  {
+    "id": 47,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Sleepless in Ok' Zundu (Lv. 57)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Black and the White</em>.",
+    "url": "",
+    "coords": {
+      "x": "9.6",
+      "y": "14.2",
+      "z": "1.8"
+    }
+  },
+  {
+    "id": 48,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Honoring the Past (Lv. 56)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>He Who Would Not Be Denied</em>, and is located in The Pillars, Ishgard.",
+    "url": "",
+    "coords": {
+      "x": "11.4",
+      "y": "11.0",
+      "z": "0"
+    }
+  },
+  {
+    "id": 49,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Clipped Wings (Lv. 50)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Disclosure</em>.",
+    "url": "",
+    "coords": {
+      "x": "17.0",
+      "y": "37.3",
+      "z": "0.5"
+    }
+  },
+  {
+    "id": 50,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Bolt, Chain and Island (Lv. 57)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Black and the White</em>, and requires defeating Bismarck in <em>The Limitless Blue (Hard)</em>.",
+    "url": "",
+    "coords": {
+      "x": "10",
+      "y": "16",
+      "z": "0"
+    }
+  },
+  {
+    "id": 51,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 1",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "11.2",
+      "y": "15.2",
+      "z": "2.0"
+    }
+  },
+  {
+    "id": 52,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 2",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "12.5",
+      "y": "11.8",
+      "z": "1.8"
+    }
+  },
+  {
+    "id": 53,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 3",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "15.2",
+      "y": "9.3",
+      "z": "1.8"
+    }
+  },
+  {
+    "id": 54,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 4",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "18.9",
+      "y": "11.6",
+      "z": "2.2"
+    }
+  },
+  {
+    "id": 55,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 5",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "27.3",
+      "y": "10.9",
+      "z": "2.6"
+    }
+  },
+  {
+    "id": 56,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 6",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "7.3",
+      "y": "20.3",
+      "z": "2.3"
+    }
+  },
+  {
+    "id": 57,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 7",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "7.3",
+      "y": "25.8",
+      "z": "1.8"
+    }
+  },
+  {
+    "id": 58,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 8",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "16.2",
+      "y": "37.6",
+      "z": "0.5"
+    }
+  },
+  {
+    "id": 59,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 9",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "9.2",
+      "y": "33.0",
+      "z": "1.1"
+    }
+  },
+  {
+    "id": 60,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 10",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "10.6",
+      "y": "34.2",
+      "z": "0.7"
+    }
+  },
+  {
+    "id": 61,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Saro Roggo's Common Life (Lv. 59)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Matoya's Cave</em>, and can be found in Matoya's Cave.",
+    "url": "",
+    "coords": {
+      "x": "6",
+      "y": "6",
+      "z": "0"
+    }
+  },
+  {
+    "id": 62,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Taking Stock (Lv. 58)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Leaving Idyllshire</em>, and can be found in Idyllshire.",
+    "url": "",
+    "coords": {
+      "x": "5",
+      "y": "6",
+      "z": "0"
+    }
+  },
+  {
+    "id": 63,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Ebb and Aetherflow (Lv. 58)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>An Illuminati Incident</em>, and can be found in Idyllshire.",
+    "url": "",
+    "coords": {
+      "x": "7",
+      "y": "6",
+      "z": "0"
+    }
+  },
+  {
+    "id": 64,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Louder than Words (Lv. 58)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>A Great New Nation</em>.",
+    "url": "",
+    "coords": {
+      "x": "21",
+      "y": "18",
+      "z": "0"
+    }
+  },
+  {
+    "id": 65,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Forbidden Knowledge (Lv. 59)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Matoya's Cave</em>, and requires completion of <em>The Great Gubal Library</em>. This quest can be found in Matoya's Cave.",
+    "url": "",
+    "coords": {
+      "x": "6",
+      "y": "6",
+      "z": "0"
+    }
+  },
+  {
+    "id": 66,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 1",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "13.4",
+      "y": "35.9",
+      "z": "1.0"
+    }
+  },
+  {
+    "id": 67,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 2",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "25.1",
+      "y": "36.9",
+      "z": "1.8"
+    }
+  },
+  {
+    "id": 68,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 3",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "21.5",
+      "y": "36.9",
+      "z": "1.1"
+    }
+  },
+  {
+    "id": 69,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 4",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "14.7",
+      "y": "24.7",
+      "z": "1.1"
+    }
+  },
+  {
+    "id": 70,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 5",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "12.8",
+      "y": "16.9",
+      "z": "1.1"
+    }
+  },
+  {
+    "id": 71,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 6",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "18.5",
+      "y": "13.5",
+      "z": "0.7"
+    }
+  },
+  {
+    "id": 72,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 7",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "24.5",
+      "y": "19.0",
+      "z": "0.3"
+    }
+  },
+  {
+    "id": 73,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 8",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "31.9",
+      "y": "22.0",
+      "z": "0.5"
+    }
+  },
+  {
+    "id": 74,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 9",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "29.5",
+      "y": "21.3",
+      "z": "0.4"
+    }
+  },
+  {
+    "id": 75,
+    "expansion": 1,
+    "type": "field",
+    "title": "Current 10",
+    "summary": "",
+    "url": "",
+    "coords": {
+      "x": "37.1",
+      "y": "25.5",
+      "z": "0.9"
+    }
+  },
+  {
+    "id": 76,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Systemic Exploration (Lv. 59)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>The First Flight of the Excelsior</em>.",
+    "url": "",
+    "coords": {
+      "x": "9",
+      "y": "11",
+      "z": "0"
+    }
+  },
+  {
+    "id": 77,
+    "expansion": 1,
+    "type": "quest",
+    "title": "In Node We Trust (Lv. 59)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Systemic Exploration</em>.",
+    "url": "",
+    "coords": {
+      "x": "10",
+      "y": "10",
+      "z": "0"
+    }
+  },
+  {
+    "id": 78,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Chimerical Maintenance (Lv. 59)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>In Node We Trust</em>.",
+    "url": "",
+    "coords": {
+      "x": "27",
+      "y": "10",
+      "z": "0"
+    }
+  },
+  {
+    "id": 79,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Close Encounters of the VIth Kind (Lv. 59)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Chimerical Maintenance</em>.",
+    "url": "",
+    "coords": {
+      "x": "37",
+      "y": "11",
+      "z": "0"
+    }
+  },
+  {
+    "id": 80,
+    "expansion": 1,
+    "type": "quest",
+    "title": "Fetters of Lament (Lv. 59)",
+    "summary": "This quest is available upon completion of the Main Story Quest <em>Close Encounters of the VIth Kind</em>.",
+    "url": "",
+    "coords": {
+      "x": "18",
+      "y": "31",
+      "z": "0"
+    }
+  }
+]

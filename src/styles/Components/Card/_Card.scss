@@ -1,0 +1,43 @@
+.Card {
+  display: block;
+  margin-bottom: 1rem;
+  color: $color-text;
+  border: 1px solid $color-border;
+  border-radius: $border-radius;
+  transition: opacity .2s ease-in-out;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  &--obtained {
+    opacity: 0.4;
+  }
+
+  &__content {
+    display: flex;
+    position: relative;
+    font-size: 0.8em;
+  }
+
+  &__column {
+    flex: 0 1 auto;
+    padding: 0.5rem;
+
+    &--lg {
+      flex: 0 2 auto;
+      width: 100%;
+    }
+  }
+
+  &__title {
+    padding: .2rem 0;
+    font-weight: 400;
+    font-size: 1.2em;
+  }
+
+  &__summary {
+    margin-bottom: 0;
+    font-size: 1em;
+  }
+}

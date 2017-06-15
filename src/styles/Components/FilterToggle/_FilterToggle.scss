@@ -1,0 +1,37 @@
+.FilterToggle {
+  display: inline-block;
+  margin:        0.2rem 0.4rem 0.2rem 0;
+  padding:       0.3rem 0.8rem;
+  background: transparent;
+  font-family: $font-sans-serif;
+  font-size: .8em;
+  line-height: 1.25;
+  text-align: center;
+  border-radius: 1rem;
+  user-select: none;
+  cursor: pointer;
+
+  @media (hover: hover) {
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  &--active {
+    background: $color-button-second;
+    color: $color-text-light;
+
+    &:hover {
+      background: $color-button-second-active;
+      text-decoration: none;
+    }
+  }
+
+  input[type=checkbox] {
+    height:       0;
+    width:        0;
+    margin:       0;
+    line-height:  0;
+    opacity:      0;
+  }
+}

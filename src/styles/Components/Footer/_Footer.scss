@@ -1,0 +1,26 @@
+.Footer {
+  display: block;
+  padding-top:    2rem;
+  padding-bottom: 2rem; 
+  background: $color-background-dark;
+
+  &__content {
+    display: flex;
+    flex-flow: row nowrap;
+    width:      100%;
+    max-width:  calc(#{$size-max-width} + (#{$margin-xl} * 2));
+    margin: 0 auto;
+    padding: 0 $margin-xl;
+    color: $color-text-light;
+    text-align: left;
+
+    &__left {
+      flex: 0 1 100%;
+    }
+
+    &__right {
+      flex: 0 1 auto;
+      text-align: right;
+    }
+  }
+}

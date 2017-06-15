@@ -1,0 +1,54 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+}
+
+.heading {
+  //font-family: $font-heading;
+  line-height: 1;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.text {
+  color: rgba($color-text, .8);
+  font-family: $font-sans-serif;
+  line-height: 1.4;
+}
+
+a,
+a:visited {
+  text-decoration: none;
+}
+
+.link {
+  color: $brand-secondary;
+
+  &:hover {
+    color: lighten($brand-secondary, 8%);
+    text-decoration: underline;
+  }
+
+  &--light {
+    color: $brand-primary;
+    &:hover {
+      color: lighten($brand-primary, 16%);
+    }
+  }
+
+  
+}

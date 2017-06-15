@@ -1,0 +1,28 @@
+.Sidebar {
+  display: block;
+  margin-bottom: 1rem;
+  padding:       1rem;
+  background: $color-background-box;
+  color: $color-text;
+  border-radius: $border-radius;
+}
+
+.progressBarWrap {
+  display: flex;
+  flex-flow: row wrap;
+  border: 1px solid black;
+  border-radius: $border-radius-sm;
+}
+
+.progressBar {
+  display: flex;
+  flex:        0 1 auto;
+  align-items: center;
+  height: 2rem;
+  width:  100%;
+  border-bottom: 1px solid black;
+
+  &:last-child {
+    border-bottom: 0;
+  }
+}

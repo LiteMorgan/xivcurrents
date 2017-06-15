@@ -1,0 +1,140 @@
+.Grid {
+  width:      100%;
+  max-width:  calc(#{$size-max-width} + (#{$margin-xl} * 2));
+  min-height: 100vh;
+  margin:        0 auto;
+  margin-bottom: $margin-xxl;
+  padding:       $margin-xl;
+  text-align: left;
+
+  &__content {
+    display:  flex;
+    flex-wrap: nowrap;
+    overflow: hidden;
+  }
+
+  &__intro {
+    flex: 0 1 100%;
+    padding: $margin-lg;
+    background: $color-background-box;
+    border-radius: $border-radius;
+  }
+
+  &__filterAppear {
+    height:     100%;
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    will-change: max-height;
+    transition: all .4s ease-in-out;
+
+    &--show {
+      max-height: 500px;
+      opacity: 1;
+    }
+
+  }
+
+  &__filters {
+    padding: $margin-lg $margin-xl;
+    background: $color-background-box;
+    border-radius: $border-radius;
+
+    &__row {
+      display: flex;
+      flex-flow: column wrap;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 0 $margin-lg;
+      border-bottom: 1px solid $color-border;
+
+      @media screen and (min-width: 768px) {
+        flex-flow: row nowrap;
+      }
+
+      & + & {
+        padding-top: $margin-lg;
+      }
+
+      &:last-child {
+        border-bottom: 0;
+      }
+    }
+
+    &__column {
+      display: flex;
+      flex-flow: row wrap;
+      flex: 0 1 auto;
+      width: 100%;
+
+      @media screen and (min-width: 768px) {
+        width: auto;
+      }
+
+      &--lg {
+        margin-right: -$margin-lg;
+        margin-left:  -$margin-lg;
+
+        @media screen and (min-width: 768px) {
+          margin-right: 0;
+          margin-left:  0;
+          width: 80%;
+        }
+      }
+    }
+  }
+
+  &__main {
+    display: flex;
+    flex: 1 0 100%;
+    flex-flow: row wrap;
+    align-items: flex-start;
+    margin-right: -0.5rem;
+    margin-left:  -0.5rem;
+    padding: 0;
+    transition: transform .2s ease-out;
+
+    @media screen and (min-width: 768px) {
+      width: 100%;
+    }
+  }
+
+  &__section {
+    display: inline-block;
+    flex: 0 1 calc(100% - #{$margin-lg});
+    margin-right:  0.5rem;
+    margin-bottom: $margin-lg;
+    margin-left:   0.5rem;
+    background: $color-background-box;
+    border-radius: 0 0 $border-radius $border-radius;
+    break-inside: avoid;
+    page-break-inside: avoid;
+
+    @media screen and (min-width: 992px) {
+      flex: 0 1 calc(50% - #{$margin-lg});
+    }
+
+    &--wide { 
+      flex: 0 1 calc(100% - #{$margin-lg}); 
+    }
+
+    &__content {
+      padding: $margin-lg;
+    }
+  }
+
+  &__sectionTitle {
+    padding:  $margin-lg;
+    color: $color-text-light;
+    font-weight: 700;
+    border-radius: $border-radius $border-radius 0 0;
+
+    &--hs {
+      background: $heavensward;
+    }
+
+    &--sb {
+      background: $stormblood;
+    }
+  }
+}

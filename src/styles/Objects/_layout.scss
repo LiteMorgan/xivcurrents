@@ -1,0 +1,18 @@
+body {
+  background: $color-background;
+}
+
+.container {
+  margin: 0;
+  margin-top: $margin-xl;
+}
+
+.row {
+  position: relative;
+  display: flex;
+  flex: 0 1 100%;
+
+  & + & {
+    margin-top: 1rem;
+  }
+}

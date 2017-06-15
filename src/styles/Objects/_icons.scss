@@ -1,0 +1,58 @@
+.icon {
+
+  &__logo {
+    display: inline-block;
+    width:     100%;
+    max-width: 500px;
+
+    .palette-2 {
+      fill: #ffffff;
+    }
+
+    .palette-3 {
+      fill: #bcbcbc;
+    }
+
+    .current {
+      animation: App-logo-spin infinite 20s linear;
+      transform-origin: center;
+
+      &-start {
+        stop-color: $current-start;
+      }
+
+      &-stop {
+        stop-color: $current-stop;
+      }
+    }
+  }
+
+  &__type {
+    display: block;
+    width: 34px;
+    border-radius: .4rem;
+
+    .palette-1 {
+      fill: $white;
+    }
+
+    &--quest {
+      background: $quest;
+    }
+
+    &--field {
+      background: $field;
+    }
+  }
+
+  & svg {
+    display: block;
+    width:  100%;
+    height: auto;
+  }
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

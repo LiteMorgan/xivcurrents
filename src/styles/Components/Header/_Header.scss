@@ -1,0 +1,17 @@
+.Header {
+  padding: $margin-xxl 0;
+  background: $color-background-dark;
+
+  &__content {
+    width:      100%;
+    max-width:  980px;
+    margin: 0 auto;
+    color: $color-text-light;
+    text-align: center;
+  }
+
+  &__subtitle {
+    margin-top: $margin-lg;
+    font-size: 1.2em;
+  }
+}
