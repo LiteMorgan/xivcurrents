@@ -1,10 +1,10 @@
 .Grid {
   width:      100%;
-  max-width:  calc(#{$size-max-width} + (#{$margin-xl} * 2));
+  max-width:  calc(#{$size-max-width} + (#{$margin-lg} * 2));
   min-height: 100vh;
   margin:        0 auto;
   margin-bottom: $margin-xxl;
-  padding:       $margin-xl;
+  padding:       0 $margin-lg;
   text-align: left;
 
   &__content {
@@ -48,7 +48,7 @@
       padding: 0 0 $margin-lg;
       border-bottom: 1px solid $color-border;
 
-      @media screen and (min-width: 768px) {
+      @media screen and (min-width: 667px) {
         flex-flow: row nowrap;
       }
 
@@ -67,7 +67,7 @@
       flex: 0 1 auto;
       width: 100%;
 
-      @media screen and (min-width: 768px) {
+      @media screen and (min-width: 667px) {
         width: auto;
       }
 
@@ -75,7 +75,7 @@
         margin-right: -$margin-lg;
         margin-left:  -$margin-lg;
 
-        @media screen and (min-width: 768px) {
+        @media screen and (min-width: 667px) {
           margin-right: 0;
           margin-left:  0;
           width: 80%;

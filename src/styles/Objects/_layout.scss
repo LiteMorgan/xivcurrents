@@ -11,6 +11,11 @@ body {
   position: relative;
   display: flex;
   flex: 0 1 100%;
+  flex-flow: column;
+
+  @media screen and (min-width: 667px) {
+    flex-flow: row;
+  }
 
   & + & {
     margin-top: 1rem;

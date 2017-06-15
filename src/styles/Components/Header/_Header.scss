@@ -4,8 +4,9 @@
 
   &__content {
     width:      100%;
-    max-width:  980px;
-    margin: 0 auto;
+    max-width:  calc(#{$size-max-width} + (#{$margin-lg} * 2));
+    margin:  0 auto;
+    padding: 0 $margin-lg;
     color: $color-text-light;
     text-align: center;
   }

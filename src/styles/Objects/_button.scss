@@ -32,22 +32,38 @@
 
 .btn-group {
   display: flex;
+  flex-flow: column wrap;
   width: 100%;
+
+  @media screen and (min-width: 667px) {
+    flex-flow: row nowrap;
+  }
 
   & > .btn {
     flex: 1 0 auto;
     border-radius: 0;
 
     &:first-child {
-      border-radius: $border-radius 0 0 $border-radius;
+      border-radius: $border-radius $border-radius 0 0 ;
+      @media screen and (min-width: 667px) {
+        border-radius: $border-radius 0 0 $border-radius;
+      }
     }
 
     &:last-child {
-      border-radius: 0 $border-radius $border-radius 0;
+      border-radius: 0 0 $border-radius $border-radius;
+      @media screen and (min-width: 667px) {
+        border-radius: 0 $border-radius $border-radius 0;
+      }
     }
   }
 
   & + * {
-    margin-left: 0.5rem;
+    margin-top: $margin-lg;
+
+    @media screen and (min-width: 667px) {
+      margin-top:  0;
+      margin-left: $margin-base;
+    }
   }
 }
