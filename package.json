@@ -19,6 +19,7 @@
     "yarn-run-all": "^3.1.1"
   },
   "devDependencies": {
+    "gh-pages": "^1.0.0",
     "node-sass-chokidar": "^0.0.2",
     "react-scripts": "1.0.7"
   },
@@ -28,6 +29,8 @@
     "start-js": "react-scripts start",
     "start": "npm-run-all -p watch-css start-js",
     "build": "yarn build-css && react-scripts build",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
