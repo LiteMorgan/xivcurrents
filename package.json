@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Locate and log Aether Currents in FFXIV",
   "author": "Liam Morgan",
-  "homepage": "http://xivcurrents.com",
+  "homepage": "https://getignited.github.io/xivcurrents",
   "private": true,
   "dependencies": {
     "aphrodite": "^1.2.1",
