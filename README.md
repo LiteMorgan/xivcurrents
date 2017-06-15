@@ -1,7 +1,7 @@
 > This project is still in beta and subject to change
 
 <div align="center">
-  <img alt="XIVCurrents" src="src/xivcurrents-dark.png" height="164px">
+  <img alt="XIVCurrents" src="public/xivcurrents-dark.png" height="164px">
 </div>
 
 <div align="center">
