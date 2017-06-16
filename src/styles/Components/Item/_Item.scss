@@ -1,4 +1,4 @@
-.Card {
+.Item {
   display: block;
   margin-bottom: 1rem;
   color: $color-text;
@@ -34,6 +34,7 @@
     padding: .2rem 0;
     font-weight: 400;
     font-size: 1.2em;
+    margin-bottom: 0;
   }
 
   &__summary {

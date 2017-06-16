@@ -5,7 +5,7 @@ import classNames           from 'classnames'
 import quest                from './quest.svg'
 import field                from './field.svg'
 
-class Card extends Component {
+class Item extends Component {
 
   itemType() {
     if(this.props.item.type === "quest") {
@@ -22,7 +22,7 @@ class Card extends Component {
   isPhoto() {
     if (this.props.item.url) {
       return (
-        <div className="Card__column">photo</div>
+        <div className="Item__column">photo</div>
       )
     }
     return false
@@ -30,32 +30,32 @@ class Card extends Component {
 
   render() {
     const item = this.props.item
-    const cardCheckedState = this.props.cardCheckedState
+    const itemCheckedState = this.props.itemCheckedState
 
-    const cardClasses = classNames("Card", {
-      "Card--obtained": cardCheckedState,
+    const cardClasses = classNames("Item", {
+      "Item--obtained": itemCheckedState,
     })
 
     return (
       <div className={cardClasses}>
-        <div className="Card__content">
-          <div className="Card__column">
+        <div className="Item__content">
+          <div className="Item__column">
             {this.itemType()}
           </div>
-          <div className="Card__column Card__column--lg">
-            <h3 className="Card__title heading">{item.title}</h3>
+          <div className="Item__column Item__column--lg">
+            <h3 className="Item__title">{item.title}</h3>
             <p className="text">X: {item.coords.x}, Y: {item.coords.y}, Z: {item.coords.z}</p>
             <p
-              className="Card__summary text" 
+              className="Item__summary text" 
               dangerouslySetInnerHTML={ {__html: item.summary} } 
             />
           </div>
           {this.isPhoto()}
-          <div className="Card__column">
+          <div className="Item__column">
             <input
               type="checkbox"
               onChange={this.props.obtained}
-              checked={cardCheckedState}
+              checked={itemCheckedState}
             />
           </div>
         </div>
@@ -64,4 +64,4 @@ class Card extends Component {
   }
 }
 
-export default Card
+export default Item
