@@ -1,10 +1,40 @@
 body {
   background: $color-background;
+  font-family: sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.pageContainer {
+  position: static;
+  width:      100%;
+  max-width:  calc(#{$size-max-width} + (#{$margin-lg} * 2));
+  margin:        $margin-xxl auto;
+  padding:       0 $margin-lg;
+
+  @media screen and (min-width: 992px) {
+    padding: 0;
+  }
+}
+
+.siteContent {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0 -#{$margin-base};
 }
 
 .container {
-  margin: 0;
-  margin-top: $margin-xl;
+  display:   flex;
+  flex:      0 1 auto;
+  flex-flow: column nowrap;
+  width:         100%;
+  margin:        0 $margin-base;
+  margin-bottom: $margin-lg;
+  padding:       $margin-lg;
+  background: $color-background-box;
+  border-radius: $border-radius;
 }
 
 .row {

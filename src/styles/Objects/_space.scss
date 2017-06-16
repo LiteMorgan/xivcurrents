@@ -1,0 +1,11 @@
+@for $i from 1 through 8 {
+  .space-#{$i} {
+    margin-bottom: calc(#{$margin-base} * #{$i});
+  }
+}
+
+@for $i from 1 through 8 {
+  .space-top-#{$i} {
+    margin-top: calc(#{$margin-base} * #{$i});
+  }
+}

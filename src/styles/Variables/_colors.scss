@@ -17,9 +17,9 @@ $brand-primary:               $current-stop;
 $brand-secondary:             #FE64A3;
 
 // Expansion Colours
-$realmreborn:                 #c1eaef;
-$heavensward:                 #182131;
-$stormblood:                  #811111;
+$realmreborn:                 #666666;
+$heavensward:                 #4f81e5;
+$stormblood:                  #a02c40;
 
 // Utility Variables
 $color-text:                  $dark;
@@ -31,6 +31,7 @@ $color-background-box:        lighten($color-background, 4%);
 $color-background-box-dark:   $off-gray;
 
 $color-border:                darken($color-background, 4%);
+$color-border-box:            darken($color-background-box, 8%);
 
 $color-button:                $brand-primary;
 $color-button-text:           $white;

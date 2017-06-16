@@ -15,7 +15,13 @@
   outline: none;
   transition: all 0.2s ease-in-out;
 
-  &--active {
+  &:hover,
+  &:focus {
+    background: $color-button-second;
+  }
+
+  &--active,
+  .Dropdown--open & {
     background: $color-button-active;
   }
 
@@ -27,6 +33,15 @@
     background: $smoke;
     color: darken($smoke, 8%);
     cursor: not-allowed;
+  }
+}
+
+.btn-bar {
+  display: flex;
+  flex-flow: column wrap;
+
+  @media screen and (min-width: 667px) {
+    flex-flow: row nowrap;
   }
 }
 
