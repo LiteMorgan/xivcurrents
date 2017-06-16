@@ -1,0 +1,63 @@
+.Dropdown {
+  $Dropdown: &;
+  position: relative;
+  display: block;
+  width: 100%;
+  margin-right: $margin-base;
+
+  @media screen and (min-width: 667px) {
+    display: inline-block;
+    width: auto;
+  }
+
+  &:last-child {
+    margin-right: 0;
+  }
+
+  &--open {
+    #{$Dropdown}__menu {
+      display: block;
+    }
+  }
+
+  &__toggle {
+    width: 100%;
+
+   
+    .caret {
+      display: inline-block;
+      width:  0;
+      height: 0;
+      margin-left: $margin-base;
+      border-top: 4px dashed;
+      border-right: 4px solid transparent;
+      border-left: 4px solid transparent;
+      vertical-align: middle;
+    }
+  }
+
+  &__menu {
+    position: absolute;
+    display: none;
+    top:  100%;
+    min-width: 10rem;
+    margin-top: $margin-sm;
+    padding: $margin-base 0;
+    background: $color-background-box;
+    border: 1px solid $color-border-box;
+    border-radius: $border-radius;
+    z-index: 100;
+
+    &--lg {
+      min-width: 18rem;
+    }
+
+    &--left {
+      left: 0;
+    }
+
+    &--right {
+      right: 0;
+    }
+  }
+}
