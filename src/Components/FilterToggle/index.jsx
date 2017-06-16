@@ -34,6 +34,7 @@ class FilterToggle extends Component {
 
     return (
       <label className={filterToggleClasses}>
+        {filter.label}
         <input
           id={filter.id}
           value={filter.id}
@@ -41,7 +42,6 @@ class FilterToggle extends Component {
           type="checkbox"
           onChange={this.filterChecked}
         />
-        {filter.label}
       </label>
     )
   }
