@@ -1,8 +1,11 @@
 import React, { Component }     from 'react'
 import ReactDOM                 from 'react-dom'
+import Isvg                     from 'react-inlinesvg'
 import classNames               from 'classnames'
 
 import FilterToggle             from './../FilterToggle'
+
+import settings                 from './settings.svg'
 
 class Dropdown extends Component {
   constructor(props) {
@@ -53,21 +56,37 @@ class Dropdown extends Component {
     })
     const dropdownMenuClasses = classNames('Dropdown__menu', {
       'Dropdown__menu--lg': dropdown.dropdownSize === 'lg',
+      'Dropdown__menu--right': dropdown.dropdownSide === 'right',
     })
+
+
 
     return (
       <div className={dropdownToggleClasses}>
-        <button 
-          type="button" 
-          id={dropdown.id}
-          className="btn Dropdown__toggle" 
-          data-toggle="dropdown" 
-          aria-haspopup="true" 
-          aria-expanded="false"
-          onClick={() => this.filterOpened(dropdown.id)}
-        >
-          {dropdown.name}<span className="caret" />
-        </button>
+        {
+          dropdown.name ? (
+            <button 
+              type="button" 
+              id={dropdown.id}
+              className="btn Dropdown__toggle"
+              aria-haspopup="true" 
+              aria-expanded="false"
+              onClick={() => this.filterOpened(dropdown.id)}
+            >
+              {dropdown.name}<span className="caret" />
+            </button>
+          ) : (
+            <button
+              type="button" 
+              id={dropdown.id}
+              className="btn btn--unstyled"
+              onClick={() => this.filterOpened(dropdown.id)}
+            >
+              <Isvg src={settings} className="icon icon__settings" />
+            </button>
+          )
+        }
+        
         {
           dropdown.customFilters ? (
             dropdown.customFilters

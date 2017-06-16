@@ -29,6 +29,17 @@
     width: 100%;
   }
 
+  &--unstyled {
+    padding: 0;
+    background: transparent;
+
+    &:hover,
+    &:focus,
+    .Dropdown--open & {
+      background: transparent;
+    }
+  }
+
   &:disabled {
     background: $smoke;
     color: darken($smoke, 8%);

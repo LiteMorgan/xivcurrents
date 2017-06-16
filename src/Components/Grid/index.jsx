@@ -3,6 +3,7 @@ import classNames           from 'classnames'
 import _filter              from 'lodash/filter'
 import _head                from 'lodash/head'
 import _intersection        from 'lodash/intersection'
+import _map                 from 'lodash/map'
 import _pull                from 'lodash/pull'
 import _pullAll             from 'lodash/pullAll'
 import _some                from 'lodash/some'
@@ -45,6 +46,7 @@ class Grid extends Component {
     this.filterCurrents               = this.filterCurrents.bind(this)
     this.resetFilter                  = this.resetFilter.bind(this)
     this.setFilterStatus              = this.setFilterStatus.bind(this)
+    this.markAllInZone                = this.markAllInZone.bind(this)
 
     if (process.env.NODE_ENV === 'production') {
       ReactGA.initialize('UA-101041740-1')
@@ -166,6 +168,24 @@ class Grid extends Component {
     })
   }
 
+  markAllInZone(data, action) {
+    const dataIDs = _map(data, 'id')
+    const currentsObtained = this.state.obtained
+    const currentsToIgnore = _intersection(dataIDs, currentsObtained)
+    const currentsToUpdate = _pullAll(dataIDs, currentsToIgnore)
+
+    if (action === 'select') {
+      for (let i=0; i < currentsToUpdate.length; i++) {
+        this.obtainedCurrent(currentsToUpdate[i])
+      }
+    } else {
+      for (let i=0; i < currentsToIgnore.length; i++) {
+        this.obtainedCurrent(currentsToIgnore[i])
+      }
+    }
+
+  }
+
 
   render () {
     const currentsDisplay = this.currentsDisplay()
@@ -176,7 +196,6 @@ class Grid extends Component {
     const filterIncompleteClasses = classNames('FilterToggle FilterRadio', {
       'FilterToggle--active': this.state.filterStatus === 'unchecked',
     })
-
 
     const statusFilters = <div className="Dropdown__menu">
       <label className={filterCompleteClasses}>
@@ -217,6 +236,21 @@ class Grid extends Component {
           return filtered.currents.indexOf(current.id) !== -1
         })
 
+        const quickToggle = <div className="Dropdown__menu Dropdown__menu--right">
+          <button
+            className="FilterToggle FilterToggle__btn"
+            onClick={() => this.markAllInZone(filteredCurrents, 'select')}
+          >
+            Select All
+          </button>
+          <button
+            className="FilterToggle FilterToggle__btn"
+            onClick={() => this.markAllInZone(filteredCurrents, 'deselect')}
+          >
+            Unselect All
+          </button>
+        </div>
+
         const sectionTitleClasses = classNames('Grid__cardTitle', {
           'Grid__cardTitle--hs': item.expansion === 1,
           'Grid__cardTitle--sb': item.expansion === 2,
@@ -230,6 +264,10 @@ class Grid extends Component {
             >
               <div className={sectionTitleClasses}>
                 <h2>{item.name}</h2>
+                <Dropdown
+                  id={item.name}
+                  customFilters={quickToggle}
+                />
               </div>
               <div className="Grid__card__content">
               {

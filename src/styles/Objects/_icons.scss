@@ -1,4 +1,5 @@
 .icon {
+  display: block;
 
   &__logo {
     display: inline-block;
@@ -27,8 +28,15 @@
     }
   }
 
+  &__settings {
+    width: 28px;
+
+    .palette-1 {
+      fill: $white;
+    }
+  }
+
   &__type {
-    display: block;
     width: 34px;
     border-radius: .4rem;
 

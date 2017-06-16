@@ -68,6 +68,10 @@
   }
 
   &__cardTitle {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-between;
     padding:  $margin-lg;
     color: $color-text-light;
     font-weight: 700;
