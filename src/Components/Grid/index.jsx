@@ -4,6 +4,7 @@ import _filter              from 'lodash/filter'
 import _head                from 'lodash/head'
 import _intersection        from 'lodash/intersection'
 import _map                 from 'lodash/map'
+import _orderBy             from 'lodash/orderBy'
 import _pull                from 'lodash/pull'
 import _pullAll             from 'lodash/pullAll'
 import _some                from 'lodash/some'
@@ -18,6 +19,8 @@ import Item                 from './../Item'
 import currents from './../../Data/currents.json'
 import zones    from './../../Data/zones.json'
 import groups   from './../../Data/groups.json'
+
+const displayZones = _orderBy(zones, ['expansion', 'id'], ['desc', 'asc'])
 
 const sortedZones  = _sortBy(zones, ['id'])
 const sortedGroups = _sortBy(groups, ['id'])
@@ -229,7 +232,7 @@ class Grid extends Component {
       </section>
     } else {
       // Creates a section for each Zone
-      CreateZones = sortedZones.map((item, key) => {
+      CreateZones = displayZones.map((item, key) => {
 
         const filtered = _head(_filter(sortedZones, { 'id': parseInt(item.id, 10) }))
         const filteredCurrents = currentsDisplay.filter((current) => {
