@@ -1039,5 +1039,281 @@
       "y": "31",
       "z": "0"
     }
+  },
+  {
+    "id": 83,
+    "type": "quest",
+    "title": "The Hidden Truth (Lv. 61)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>Divide and Conquer</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "9.2",
+      "y": "10.8",
+      "z": "1.1"
+    }
+  },
+  {
+    "id": 84,
+    "type": "quest",
+    "title": "Magiteknical Failure (Lv. 60)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>Signed, Sealed, to Be Delivered</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "8.4",
+      "y": "11.2",
+      "z": "1.1"
+    }
+  },
+  {
+    "id": 91,
+    "type": "field",
+    "title": "Current 6",
+    "summary": "<p>Becomes available during Main Story Quest <em>Beyond the Great Wall</em>.</p><p>Head east out of Castrum Oriens, until you come to the Velodyna River. Head south, wrapping around the cliffs, and the Current is tucked down a little nook facing the waterfall.</p>",
+    "url": "",
+    "coords": {
+      "x": "17.4",
+      "y": "15.1",
+      "z": "0.0"
+    }
+  },
+  {
+    "id": 92,
+    "type": "field",
+    "title": "Current 7",
+    "summary": "<p>Becomes available during Main Story Quest <em>Beyond the Great Wall</em>.</p><p>Head south out of Castrum Oriens, headed towards Dimwold. You'll see the Current chilling on a fallen tree.</p>",
+    "url": "",
+    "coords": {
+      "x": "9.6",
+      "y": "27.8",
+      "z": "0.3"
+    }
+  },
+  {
+    "id": 93,
+    "type": "field",
+    "title": "Current 8",
+    "summary": "<p>Becomes available during Main Story Quest <em>Beyond the Great Wall</em>.</p><p>Head east out of Castrum Oriens and cross the Velodyna River. Keep going east and you will come across a scalable mountain. Jump up and run to the far edge, where the Current lies in wait.</p>",
+    "url": "",
+    "coords": {
+      "x": "25.0",
+      "y": "11.1",
+      "z": "0.6"
+    }
+  },
+  {
+    "id": 94,
+    "type": "field",
+    "title": "Current 9",
+    "summary": "<p>Becomes available during Main Story Quest <em>Beyond the Great Wall</em>.</p><p>Head east out of Castrum Oriens until you arrive at the Velodyna River. Head north up the river, and the Current is sat on a rock.</p>",
+    "url": "",
+    "coords": {
+      "x": "19.3",
+      "y": "4.5",
+      "z": "0.4"
+    }
+  },
+  {
+    "id": 95,
+    "type": "field",
+    "title": "Current 10",
+    "summary": "<p>Becomes available during Main Story Quest <em>Beyond the Great Wall</em>.</p><p>Proceed south east out of Castrum Oriens. The Current is located under a bridge.</p>",
+    "url": "",
+    "coords": {
+      "x": "11.7",
+      "y": "16.5",
+      "z": "0.6"
+    }
+  },
+  {
+    "id": 99,
+    "type": "quest",
+    "title": "The Price of Betrayal (Lv. 62)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>Boys with Boats</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "31.5",
+      "y": "37.1",
+      "z": "0.3"
+    }
+  },
+  {
+    "id": 102,
+    "type": "field",
+    "title": "Current 2",
+    "summary": "<p>Becomes available during Main Story Quest <em>Once More, to the Ruby Sea</em>.</p><p>From The Ruby Price, head north past Barrier Isle, to The Isle of Bekko. Head to the southwest corner of the island, where you'll find the Current sat on a climable rock.</p>",
+    "url": "",
+    "coords": {
+      "x": "31.4",
+      "y": "25.0",
+      "z": "0.0"
+    }
+  },
+  {
+    "id": 103,
+    "type": "field",
+    "title": "Current 3",
+    "summary": "<p>Becomes available during Main Story Quest <em>Once More, to the Ruby Sea</em>.</p><p>From The Ruby Price, head north past Barrier Isle, to The Isle of Bekko. From the southeast of the island, climb the winding cliff face and follow the edge around the island. The Current can be found overlooking the beach, opposite of where you climbed up.</p>",
+    "url": "",
+    "coords": {
+      "x": "35.5",
+      "y": "20.5",
+      "z": "0.4"
+    }
+  },
+  {
+    "id": 104,
+    "type": "field",
+    "title": "Current 4",
+    "summary": "<p>Becomes available during Main Story Quest <em>Once More, to the Ruby Sea</em>.</p><p>From Crick, head to Quickscape Pier on the north of the island. Climb aboard the boat, and head to the front. Can't miss the Current floating tauntingly in front of you.</p>",
+    "url": "",
+    "coords": {
+      "x": "22.7",
+      "y": "3.9",
+      "z": "0.0"
+    }
+  },
+  {
+    "id": 105,
+    "type": "field",
+    "title": "Current 5",
+    "summary": "<p>Becomes available during Main Story Quest <em>Once More, to the Ruby Sea</em>.</p><p>From Tamamizu, swim northeast, and loop around Shoal Rock until you arrive at The Coral Banquet. Climb to the arena at the top, run to the back and jump over the fence. The Current is hidden back here.</p>",
+    "url": "",
+    "coords": {
+      "x": "31.5",
+      "y": "6.4",
+      "z": "0.2"
+    }
+  },
+  {
+    "id": 106,
+    "type": "field",
+    "title": "Current 6",
+    "summary": "<p>Becomes available during Main Story Quest <em>Once More, to the Ruby Sea</em>.</p><p>From Crick, head northwest slightly to the Heaven-on-High structure. Begin climbing the staircases until you come to a fork. Turn left, climb the stairs, and jump onto the adjacent roof to claim your prize.</p>",
+    "url": "",
+    "coords": {
+      "x": "21.9",
+      "y": "9.0",
+      "z": "0.2"
+    }
+  },
+  {
+    "id": 107,
+    "type": "field",
+    "title": "Current 7",
+    "summary": "<p>Becomes available during Main Story Quest <em>Once More, to the Ruby Sea</em>.</p><p>From Crick, head northwest along the beach. In the middle of the island you'll find the Current, sat on a rock.</p>",
+    "url": "",
+    "coords": {
+      "x": "17.7",
+      "y": "7.5",
+      "z": "0.0"
+    }
+  },
+  {
+    "id": 108,
+    "type": "field",
+    "title": "Current 8",
+    "summary": "<p>Becomes available during Main Story Quest <em>Once More, to the Ruby Sea</em>.</p><p>From Crick, head west, and swim across to Isari. Follow the coastline north, around the large rock in the ocean and heading past the next rock until you find a hill leading up. Climb up, mind the wolves, and claim the Current.</p>",
+    "url": "",
+    "coords": {
+      "x": "8.4",
+      "y": "9.2",
+      "z": "0.2"
+    }
+  },
+  {
+    "id": 109,
+    "type": "field",
+    "title": "Current 9",
+    "summary": "<p>Becomes available during Main Story Quest <em>Once More, to the Ruby Sea</em>.</p><p>From The Ruby Price, head west, and follow the southern-most island around the Volcano. The Current is located on a small rock, on the western side of this island.</p>",
+    "url": "",
+    "coords": {
+      "x": "15.2",
+      "y": "38.4",
+      "z": "0.0"
+    }
+  },
+  {
+    "id": 110,
+    "type": "field",
+    "title": "Current 10",
+    "summary": "<p>Becomes available during Main Story Quest <em>Once More, to the Ruby Sea</em>.</p><p>Upon arriving at The Ruby Price from Kugane, jump into the water and swim straight west, until you arrive at Sakazuki. Follow the shore to the south side, and the Aether Current is a small climb up the hill.</p>",
+    "url": "",
+    "coords": {
+      "x": "29.9",
+      "y": "38.8",
+      "z": "0.1"
+    }
+  },
+  {
+    "id": 114,
+    "type": "quest",
+    "title": "Saint Slayer (Lv. 61)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>The Fires Fade</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "24.4",
+      "y": "6.8",
+      "z": "0.7"
+    }
+  },
+  {
+    "id": 121,
+    "type": "field",
+    "title": "Current 6",
+    "summary": "<p>Becomes available during Main Story Quest <em>A Familiar Face Forgotten</em>.</p><p>Head south from Ala Gannha until you reach the winding path called the Whitherwander. Head east to Momoroon's Milk, and the Current can be found by the small Qiqirn hamlet. Don't get killed!</p>",
+    "url": "",
+    "coords": {
+      "x": "27.5",
+      "y": "20.8",
+      "z": "1.5"
+    }
+  },
+  {
+    "id": 122,
+    "type": "field",
+    "title": "Current 7",
+    "summary": "<p>Becomes available during Main Story Quest <em>A Familiar Face Forgotten</em>.</p><p>Enter The Peaks from Rhalgr's Reach, and head south east to The Ziggurat. Climb the first two staircases, and head right (or left!) when you can. Drop down, and head to the southern face of The Ziggurat. The Current is slightly below you, on a slight outcropping.</p>",
+    "url": "",
+    "coords": {
+      "x": "15.8",
+      "y": "16.9",
+      "z": "0.8"
+    }
+  },
+  {
+    "id": 123,
+    "type": "field",
+    "title": "Current 8",
+    "summary": "<p>Becomes available during Main Story Quest <em>A Familiar Face Forgotten</em>.</p><p>From Ala Gannha, head south to Rustrock. amd then head north east, following The Thristless Path. Follow this path as it winds back on itself until you reach the Sleeping Stones. The Current is towards the back, on some bricks.</p>",
+    "url": "",
+    "coords": {
+      "x": "35.7",
+      "y": "11.6",
+      "z": "2.1"
+    }
+  },
+  {
+    "id": 124,
+    "type": "field",
+    "title": "Current 9",
+    "summary": "<p>Becomes available during Main Story Quest <em>A Familiar Face Forgotten</em>.</p><p>In Ala Gannha, head north up the natural ramp and follow the path along. When you reach the railings at the end, jump over onto the small lip of the cliff where the Current waits.</p>",
+    "url": "",
+    "coords": {
+      "x": "26.9",
+      "y": "6.9",
+      "z": "0.8"
+    }
+  },
+  {
+    "id": 125,
+    "type": "field",
+    "title": "Current 10",
+    "summary": "<p>Becomes available during Main Story Quest <em>A Familiar Face Forgotten</em>.</p><p>Enter The Peaks from Rhalgr's Reach, and head east. You'll see the Current a short distance away on a raise area.</p>",
+    "url": "",
+    "coords": {
+      "x": "11.8",
+      "y": "5.8",
+      "z": "0.1"
+    }
   }
 ]

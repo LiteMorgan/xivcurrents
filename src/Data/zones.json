@@ -120,5 +120,49 @@
       79,
       80
     ]
+  },
+  {
+    "id": 7,
+    "name": "The Fringes",
+    "expansion": 2,
+    "currents": [
+      83,
+      84,
+      91,
+      92,
+      93,
+      94,
+      95
+    ]
+  },
+  {
+    "id": 8,
+    "name": "The Ruby Sea",
+    "expansion": 2,
+    "currents": [
+      99,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ]
+  },
+  {
+    "id": 9,
+    "name": "The Peaks",
+    "expansion": 2,
+    "currents": [
+      114,
+      121,
+      122,
+      123,
+      124,
+      125
+    ]
   }
 ]
