@@ -58,6 +58,10 @@
       flex: 0 1 calc(50% - #{$margin-lg});
     }
 
+    @media screen and (min-width: 1200px) {
+      flex: 0 1 calc(33.33333% - #{$margin-lg});
+    }
+
     &--wide { 
       flex: 0 1 calc(100% - #{$margin-lg}); 
     }

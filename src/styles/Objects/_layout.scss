@@ -17,6 +17,10 @@ body {
   @media screen and (min-width: 992px) {
     padding: 0;
   }
+
+  @media screen and (min-width: 1200px) {
+    max-width: calc(#{$size-max-width-xl} + (#{$margin-lg} * 2));
+  }
 }
 
 .siteContent {
