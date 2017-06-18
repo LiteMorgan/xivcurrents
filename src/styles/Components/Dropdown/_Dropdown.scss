@@ -3,11 +3,13 @@
   position: relative;
   display: block;
   width: 100%;
-  margin-right: $margin-base;
+  margin-bottom: $margin-base;
 
   @media screen and (min-width: 667px) {
     display: inline-block;
     width: auto;
+    margin-right:  $margin-base;
+    margin-bottom: 0;
   }
 
   &:last-child {
