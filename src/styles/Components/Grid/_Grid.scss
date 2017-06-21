@@ -85,6 +85,14 @@
       margin-bottom: 0;
     }
 
+    & > h2 {
+      flex: 1 0 auto;
+    }
+
+    & > .Dropdown {
+      flex: 0;
+    }
+
     &--hs {
       background: $heavensward;
     }
