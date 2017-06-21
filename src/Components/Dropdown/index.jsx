@@ -59,8 +59,6 @@ class Dropdown extends Component {
       'Dropdown__menu--right': dropdown.dropdownSide === 'right',
     })
 
-
-
     return (
       <div className={dropdownToggleClasses}>
         {
@@ -94,6 +92,24 @@ class Dropdown extends Component {
             <div className={dropdownMenuClasses}>
               {
                 dropdown.data.map((item, key) => {
+                  let itemName
+
+                  switch (dropdown.lang) {
+                    case 'jp':
+                      itemName = item.names.jp
+                      break
+                    case 'en':
+                      itemName = item.names.en
+                      break
+                    case 'fr':
+                      itemName = item.names.fr
+                      break
+                    case 'de':
+                      itemName = item.names.de
+                      break
+                    default:
+                      break
+                  }
                   return (
                     <FilterToggle
                       key={item.id}
@@ -101,7 +117,7 @@ class Dropdown extends Component {
                       type={dropdown.filters}
                       data={dropdown.data}
                       handleFilterChange={this.filterToggled}
-                      label={item.name}
+                      label={itemName}
                     />
                   )
                 })

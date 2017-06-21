@@ -1,7 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Coerthas Western Highlands",
+    "names": {
+      "jp": "Dravanisches Vorland",
+      "en": "Coerthas Western Highlands",
+      "fr": "Hautes Terres Du Coerthas Occidental",
+      "de": "Westliches Hochland Von Coerthas"
+    },
     "expansion": 1,
     "currents": [
       1,
@@ -23,7 +28,12 @@
   },
   {
     "id": 2,
-    "name": "The Dravanian Forelands",
+    "names": {
+      "jp": "高地ドラヴァニア",
+      "en": "The Dravanian Forelands",
+      "fr": "Avant-pays Dravanien",
+      "de": "Dravanisches Vorland"
+    },
     "expansion": 1,
     "currents": [
       16,
@@ -45,7 +55,12 @@
   },
   {
     "id": 3,
-    "name": "The Churning Mists",
+    "names": {
+      "jp": "ドラヴァニア雲海",
+      "en": "The Churning Mists",
+      "fr": "L'Écume Des Cieux De Dravania",
+      "de": "Wallende Nebel"
+    },
     "expansion": 1,
     "currents": [
       31,
@@ -67,7 +82,12 @@
   },
   {
     "id": 4,
-    "name": "The Sea of Clouds",
+    "names": {
+      "jp": "アバラシア雲海",
+      "en": "The Sea of Clouds",
+      "fr": "L'Écume Des Cieux D'Abalathia",
+      "de": "Abalathisches Wolkenmeer"
+    },
     "expansion": 1,
     "currents": [
       46,
@@ -89,7 +109,12 @@
   },
   {
     "id": 5,
-    "name": "The Dravanian Hinterlands",
+    "names": {
+      "jp": "低地ドラヴァニア",
+      "en": "The Dravanian Hinterlands",
+      "fr": "Arrière-pays Dravanien",
+      "de": "Dravanisches Hinterland"
+    },
     "expansion": 1,
     "currents": [
       61,
@@ -111,7 +136,12 @@
   },
   {
     "id": 6,
-    "name": "Azys La",
+    "names": {
+      "jp": "アジス・ラー",
+      "en": "Azys Lla",
+      "fr": "Azys Lla",
+      "de": "Azys Lla"
+    },
     "expansion": 1,
     "currents": [
       76,
@@ -123,7 +153,12 @@
   },
   {
     "id": 7,
-    "name": "The Fringes",
+    "names": {
+      "jp": "ギラバニア辺境地帯",
+      "en": "The Fringes",
+      "fr": "Les Marges",
+      "de": "Abanisches Grenzland"
+    },
     "expansion": 2,
     "currents": [
       81,
@@ -146,6 +181,12 @@
   {
     "id": 8,
     "name": "The Ruby Sea",
+    "names": {
+      "jp": "紅玉海",
+      "en": "The Ruby Sea",
+      "fr": "Mer De Rubis",
+      "de": "Rubinsee"
+    },
     "expansion": 2,
     "currents": [
       96,
@@ -168,6 +209,12 @@
   {
     "id": 9,
     "name": "The Peaks",
+    "names": {
+      "jp": "ギラバニア山岳地帯",
+      "en": "The Peaks",
+      "fr": "Les Pics",
+      "de": "Die Zinnen"
+    },
     "expansion": 2,
     "currents": [
       111,
@@ -190,6 +237,12 @@
   {
     "id": 10,
     "name": "Yanxia",
+    "names": {
+      "jp": "ヤンサ",
+      "en": "Yanxia",
+      "fr": "Yanxia",
+      "de": "Yanxia"
+    },
     "expansion": 2,
     "currents": [
       126,
@@ -212,6 +265,12 @@
   {
     "id": 11,
     "name": "The Lochs",
+    "names": {
+      "jp": "ギラバニア湖畔地帯",
+      "en": "The Lochs",
+      "fr": "Les Lacs",
+      "de": "Das Fenn"
+    },
     "expansion": 2,
     "currents": [
       141,
@@ -234,6 +293,12 @@
   {
     "id": 12,
     "name": "The Azim Steppe",
+    "names": {
+      "jp": "アジムステップ",
+      "en": "The Azim Steppe",
+      "fr": "Steppe D'Azim",
+      "de": "Azim-Steppe"
+    },
     "expansion": 2,
     "currents": [
       156,

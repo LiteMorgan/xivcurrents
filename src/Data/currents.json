@@ -1,7 +1,6 @@
 [
   {
     "id": 1,
-    "expansion": 1,
     "type": "quest",
     "title": "For All The Nights To Come (Lv. 51)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Sounding Out The Amphitheatre</em>, and requires completion of <em>The Dusk Vigil</em>.",
@@ -14,7 +13,6 @@
   },
   {
     "id": 2,
-    "expansion": 1,
     "type": "quest",
     "title": "Baby Steps (Lv. 51)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Sounding Out The Amphitheatre</em>.",
@@ -27,7 +25,6 @@
   },
   {
     "id": 3,
-    "expansion": 1,
     "type": "quest",
     "title": "Protecting What's Important (Lv. 51)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Camp of the Convictors</em>.",
@@ -40,7 +37,6 @@
   },
   {
     "id": 4,
-    "expansion": 1,
     "type": "quest",
     "title": "Bridge Over Frozen Water (Lv. 50)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Disclosure</em>.",
@@ -53,7 +49,6 @@
   },
   {
     "id": 5,
-    "expansion": 1,
     "type": "quest",
     "title": "Purple Flame, Purple Flame (Lv. 51)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Camp of the Convictor</em>.",
@@ -66,7 +61,6 @@
   },
   {
     "id": 6,
-    "expansion": 1,
     "type": "field",
     "title": "Current 1",
     "summary": "",
@@ -79,7 +73,6 @@
   },
   {
     "id": 7,
-    "expansion": 1,
     "type": "field",
     "title": "Current 2",
     "summary": "",
@@ -92,7 +85,6 @@
   },
   {
     "id": 8,
-    "expansion": 1,
     "type": "field",
     "title": "Current 3",
     "summary": "",
@@ -105,7 +97,6 @@
   },
   {
     "id": 9,
-    "expansion": 1,
     "type": "field",
     "title": "Current 4",
     "summary": "",
@@ -118,7 +109,6 @@
   },
   {
     "id": 10,
-    "expansion": 1,
     "type": "field",
     "title": "Current 5",
     "summary": "",
@@ -131,7 +121,6 @@
   },
   {
     "id": 11,
-    "expansion": 1,
     "type": "field",
     "title": "Current 6",
     "summary": "",
@@ -144,7 +133,6 @@
   },
   {
     "id": 12,
-    "expansion": 1,
     "type": "field",
     "title": "Current 7",
     "summary": "",
@@ -157,7 +145,6 @@
   },
   {
     "id": 13,
-    "expansion": 1,
     "type": "field",
     "title": "Current 8",
     "summary": "",
@@ -170,7 +157,6 @@
   },
   {
     "id": 14,
-    "expansion": 1,
     "type": "field",
     "title": "Current 9",
     "summary": "",
@@ -183,7 +169,6 @@
   },
   {
     "id": 15,
-    "expansion": 1,
     "type": "field",
     "title": "Current 10",
     "summary": "",
@@ -196,7 +181,6 @@
   },
   {
     "id": 16,
-    "expansion": 1,
     "type": "quest",
     "title": "A Lesson in Humility (Lv. 53)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>A Gnathic Deity</em>.",
@@ -209,7 +193,6 @@
   },
   {
     "id": 17,
-    "expansion": 1,
     "type": "quest",
     "title": "The Hunter Becomes the Kweh (Lv. 53)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>A Gnathic Deity<em>.",
@@ -222,7 +205,6 @@
   },
   {
     "id": 18,
-    "expansion": 1,
     "type": "quest",
     "title": "Stolen Munitions (Lv. 52)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>The Nonmind</em>.",
@@ -235,7 +217,6 @@
   },
   {
     "id": 19,
-    "expansion": 1,
     "type": "quest",
     "title": "Some Bad News (Lv. 52)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Where The Chocobos Roam</em>.",
@@ -248,7 +229,6 @@
   },
   {
     "id": 20,
-    "expansion": 1,
     "type": "quest",
     "title": "Mourn in Passing (Lv. 53)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Lord of the Hive</em>, and requires completion of <em>Sohm Al</em>.",
@@ -261,7 +241,6 @@
   },
   {
     "id": 21,
-    "expansion": 1,
     "type": "field",
     "title": "Current 1",
     "summary": "",
@@ -274,7 +253,6 @@
   },
   {
     "id": 22,
-    "expansion": 1,
     "type": "field",
     "title": "Current 2",
     "summary": "",
@@ -287,7 +265,6 @@
   },
   {
     "id": 23,
-    "expansion": 1,
     "type": "field",
     "title": "Current 3",
     "summary": "",
@@ -300,7 +277,6 @@
   },
   {
     "id": 24,
-    "expansion": 1,
     "type": "field",
     "title": "Current 4",
     "summary": "",
@@ -313,7 +289,6 @@
   },
   {
     "id": 25,
-    "expansion": 1,
     "type": "field",
     "title": "Current 5",
     "summary": "",
@@ -326,7 +301,6 @@
   },
   {
     "id": 26,
-    "expansion": 1,
     "type": "field",
     "title": "Current 6",
     "summary": "",
@@ -339,7 +313,6 @@
   },
   {
     "id": 27,
-    "expansion": 1,
     "type": "field",
     "title": "Current 7",
     "summary": "",
@@ -352,7 +325,6 @@
   },
   {
     "id": 28,
-    "expansion": 1,
     "type": "field",
     "title": "Current 8",
     "summary": "",
@@ -365,7 +337,6 @@
   },
   {
     "id": 29,
-    "expansion": 1,
     "type": "field",
     "title": "Current 9",
     "summary": "",
@@ -378,7 +349,6 @@
   },
   {
     "id": 30,
-    "expansion": 1,
     "type": "field",
     "title": "Current 10",
     "summary": "",
@@ -391,7 +361,6 @@
   },
   {
     "id": 31,
-    "expansion": 1,
     "type": "quest",
     "title": "Waiting to Inhale (Lv. 54)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Heart of Ice</em>.",
@@ -405,7 +374,6 @@
 
   {
     "id": 32,
-    "expansion": 1,
     "type": "quest",
     "title": "Hide Your Moogles (Lv. 54)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>The Wyrm's Lair</em>.",
@@ -418,7 +386,6 @@
   },
   {
     "id": 33,
-    "expansion": 1,
     "type": "quest",
     "title": "Road Kill (Lv. 54)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Leaving Moghome</em>.",
@@ -431,7 +398,6 @@
   },
   {
     "id": 34,
-    "expansion": 1,
     "type": "quest",
     "title": "The Bathing Bully (Lv. 54)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Moghan's Trial</em>.",
@@ -444,7 +410,6 @@
   },
   {
     "id": 35,
-    "expansion": 1,
     "type": "quest",
     "title": "Into the Aery (Lv. 55)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Ready to Fly</em>, and requires completion of <em>The Aery</em>. It is located in Foundation, Ishgard.",
@@ -457,7 +422,6 @@
   },
   {
     "id": 36,
-    "expansion": 1,
     "type": "field",
     "title": "Current 1",
     "summary": "",
@@ -470,7 +434,6 @@
   },
   {
     "id": 37,
-    "expansion": 1,
     "type": "field",
     "title": "Current 2",
     "summary": "",
@@ -483,7 +446,6 @@
   },
   {
     "id": 38,
-    "expansion": 1,
     "type": "field",
     "title": "Current 3",
     "summary": "",
@@ -496,7 +458,6 @@
   },
   {
     "id": 39,
-    "expansion": 1,
     "type": "field",
     "title": "Current 4",
     "summary": "",
@@ -509,7 +470,6 @@
   },
   {
     "id": 40,
-    "expansion": 1,
     "type": "field",
     "title": "Current 5",
     "summary": "",
@@ -522,7 +482,6 @@
   },
   {
     "id": 41,
-    "expansion": 1,
     "type": "field",
     "title": "Current 6",
     "summary": "",
@@ -535,7 +494,6 @@
   },
   {
     "id": 42,
-    "expansion": 1,
     "type": "field",
     "title": "Current 7",
     "summary": "",
@@ -548,7 +506,6 @@
   },
   {
     "id": 43,
-    "expansion": 1,
     "type": "field",
     "title": "Current 8",
     "summary": "",
@@ -561,7 +518,6 @@
   },
   {
     "id": 44,
-    "expansion": 1,
     "type": "field",
     "title": "Current 9",
     "summary": "",
@@ -574,7 +530,6 @@
   },
   {
     "id": 45,
-    "expansion": 1,
     "type": "field",
     "title": "Current 10",
     "summary": "",
@@ -587,7 +542,6 @@
   },
   {
     "id": 46,
-    "expansion": 1,
     "type": "quest",
     "title": "Flying the Nest (Lv. 57)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Black and the White</em>.",
@@ -600,7 +554,6 @@
   },
   {
     "id": 47,
-    "expansion": 1,
     "type": "quest",
     "title": "Sleepless in Ok' Zundu (Lv. 57)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Black and the White</em>.",
@@ -613,7 +566,6 @@
   },
   {
     "id": 48,
-    "expansion": 1,
     "type": "quest",
     "title": "Honoring the Past (Lv. 56)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>He Who Would Not Be Denied</em>, and is located in The Pillars, Ishgard.",
@@ -626,7 +578,6 @@
   },
   {
     "id": 49,
-    "expansion": 1,
     "type": "quest",
     "title": "Clipped Wings (Lv. 50)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Disclosure</em>.",
@@ -639,7 +590,6 @@
   },
   {
     "id": 50,
-    "expansion": 1,
     "type": "quest",
     "title": "Bolt, Chain and Island (Lv. 57)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Black and the White</em>, and requires defeating Bismarck in <em>The Limitless Blue (Hard)</em>.",
@@ -652,7 +602,6 @@
   },
   {
     "id": 51,
-    "expansion": 1,
     "type": "field",
     "title": "Current 1",
     "summary": "",
@@ -665,7 +614,6 @@
   },
   {
     "id": 52,
-    "expansion": 1,
     "type": "field",
     "title": "Current 2",
     "summary": "",
@@ -678,7 +626,6 @@
   },
   {
     "id": 53,
-    "expansion": 1,
     "type": "field",
     "title": "Current 3",
     "summary": "",
@@ -691,7 +638,6 @@
   },
   {
     "id": 54,
-    "expansion": 1,
     "type": "field",
     "title": "Current 4",
     "summary": "",
@@ -704,7 +650,6 @@
   },
   {
     "id": 55,
-    "expansion": 1,
     "type": "field",
     "title": "Current 5",
     "summary": "",
@@ -717,7 +662,6 @@
   },
   {
     "id": 56,
-    "expansion": 1,
     "type": "field",
     "title": "Current 6",
     "summary": "",
@@ -730,7 +674,6 @@
   },
   {
     "id": 57,
-    "expansion": 1,
     "type": "field",
     "title": "Current 7",
     "summary": "",
@@ -743,7 +686,6 @@
   },
   {
     "id": 58,
-    "expansion": 1,
     "type": "field",
     "title": "Current 8",
     "summary": "",
@@ -756,7 +698,6 @@
   },
   {
     "id": 59,
-    "expansion": 1,
     "type": "field",
     "title": "Current 9",
     "summary": "",
@@ -769,7 +710,6 @@
   },
   {
     "id": 60,
-    "expansion": 1,
     "type": "field",
     "title": "Current 10",
     "summary": "",
@@ -782,7 +722,6 @@
   },
   {
     "id": 61,
-    "expansion": 1,
     "type": "quest",
     "title": "Saro Roggo's Common Life (Lv. 59)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Matoya's Cave</em>, and can be found in Matoya's Cave.",
@@ -795,7 +734,6 @@
   },
   {
     "id": 62,
-    "expansion": 1,
     "type": "quest",
     "title": "Taking Stock (Lv. 58)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Leaving Idyllshire</em>, and can be found in Idyllshire.",
@@ -808,7 +746,6 @@
   },
   {
     "id": 63,
-    "expansion": 1,
     "type": "quest",
     "title": "Ebb and Aetherflow (Lv. 58)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>An Illuminati Incident</em>, and can be found in Idyllshire.",
@@ -821,7 +758,6 @@
   },
   {
     "id": 64,
-    "expansion": 1,
     "type": "quest",
     "title": "Louder than Words (Lv. 58)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>A Great New Nation</em>.",
@@ -834,7 +770,6 @@
   },
   {
     "id": 65,
-    "expansion": 1,
     "type": "quest",
     "title": "Forbidden Knowledge (Lv. 59)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Matoya's Cave</em>, and requires completion of <em>The Great Gubal Library</em>. This quest can be found in Matoya's Cave.",
@@ -847,7 +782,6 @@
   },
   {
     "id": 66,
-    "expansion": 1,
     "type": "field",
     "title": "Current 1",
     "summary": "",
@@ -860,7 +794,6 @@
   },
   {
     "id": 67,
-    "expansion": 1,
     "type": "field",
     "title": "Current 2",
     "summary": "",
@@ -873,7 +806,6 @@
   },
   {
     "id": 68,
-    "expansion": 1,
     "type": "field",
     "title": "Current 3",
     "summary": "",
@@ -886,7 +818,6 @@
   },
   {
     "id": 69,
-    "expansion": 1,
     "type": "field",
     "title": "Current 4",
     "summary": "",
@@ -899,7 +830,6 @@
   },
   {
     "id": 70,
-    "expansion": 1,
     "type": "field",
     "title": "Current 5",
     "summary": "",
@@ -912,7 +842,6 @@
   },
   {
     "id": 71,
-    "expansion": 1,
     "type": "field",
     "title": "Current 6",
     "summary": "",
@@ -925,7 +854,6 @@
   },
   {
     "id": 72,
-    "expansion": 1,
     "type": "field",
     "title": "Current 7",
     "summary": "",
@@ -938,7 +866,6 @@
   },
   {
     "id": 73,
-    "expansion": 1,
     "type": "field",
     "title": "Current 8",
     "summary": "",
@@ -951,7 +878,6 @@
   },
   {
     "id": 74,
-    "expansion": 1,
     "type": "field",
     "title": "Current 9",
     "summary": "",
@@ -964,7 +890,6 @@
   },
   {
     "id": 75,
-    "expansion": 1,
     "type": "field",
     "title": "Current 10",
     "summary": "",
@@ -977,7 +902,6 @@
   },
   {
     "id": 76,
-    "expansion": 1,
     "type": "quest",
     "title": "Systemic Exploration (Lv. 59)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>The First Flight of the Excelsior</em>.",
@@ -990,7 +914,6 @@
   },
   {
     "id": 77,
-    "expansion": 1,
     "type": "quest",
     "title": "In Node We Trust (Lv. 59)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Systemic Exploration</em>.",
@@ -1003,7 +926,6 @@
   },
   {
     "id": 78,
-    "expansion": 1,
     "type": "quest",
     "title": "Chimerical Maintenance (Lv. 59)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>In Node We Trust</em>.",
@@ -1016,7 +938,6 @@
   },
   {
     "id": 79,
-    "expansion": 1,
     "type": "quest",
     "title": "Close Encounters of the VIth Kind (Lv. 59)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Chimerical Maintenance</em>.",
@@ -1029,7 +950,6 @@
   },
   {
     "id": 80,
-    "expansion": 1,
     "type": "quest",
     "title": "Fetters of Lament (Lv. 59)",
     "summary": "This quest is available upon completion of the Main Story Quest <em>Close Encounters of the VIth Kind</em>.",

@@ -35,6 +35,7 @@ class Grid extends Component {
 
     this.state = {
       data: currents,
+      lang: 'jp',
       zone: '',
       group: '',
       obtained: [],
@@ -233,11 +234,29 @@ class Grid extends Component {
     } else {
       // Creates a section for each Zone
       CreateZones = displayZones.map((item, key) => {
-
         const filtered = _head(_filter(sortedZones, { 'id': parseInt(item.id, 10) }))
         const filteredCurrents = currentsDisplay.filter((current) => {
           return filtered.currents.indexOf(current.id) !== -1
         })
+
+        let zoneName
+
+        switch (this.state.lang) {
+          case 'jp':
+            zoneName = item.names.jp
+            break
+          case 'en':
+            zoneName = item.names.en
+            break
+          case 'fr':
+            zoneName = item.names.fr
+            break
+          case 'de':
+            zoneName = item.names.de
+            break
+          default:
+            break
+        }
 
         const quickToggle = <div className="Dropdown__menu Dropdown__menu--right">
           <button
@@ -254,6 +273,8 @@ class Grid extends Component {
           </button>
         </div>
 
+
+
         const sectionTitleClasses = classNames('Grid__cardTitle', {
           'Grid__cardTitle--hs': item.expansion === 1,
           'Grid__cardTitle--sb': item.expansion === 2,
@@ -266,7 +287,8 @@ class Grid extends Component {
               key={item.id}
             >
               <div className={sectionTitleClasses}>
-                <h2>{item.name}</h2>
+
+                <h2>{zoneName}</h2>
                 <Dropdown
                   id={item.name}
                   customFilters={quickToggle}
@@ -307,6 +329,7 @@ class Grid extends Component {
               filters="zones"
               data={sortedZones}
               handleFilterEvent={this.filterCurrents}
+              lang={this.state.lang}
               dropdownSize="lg"
             />
 
@@ -316,6 +339,7 @@ class Grid extends Component {
               filters="groups"
               data={sortedGroups}
               handleFilterEvent={this.filterCurrents}
+              lang={this.state.lang}
               dropdownSize="sm"
             />
 
