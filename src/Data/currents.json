@@ -1041,6 +1041,30 @@
     }
   },
   {
+    "id": 81,
+    "type": "quest",
+    "title": "Eyes Bigger Than Her Stomach (Lv. 67)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>Rising Fortunes, Rising Spirits</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "30.1",
+      "y": "26.1",
+      "z": "1.0"
+    }
+  },
+  {
+    "id": 82,
+    "type": "quest",
+    "title": "Unexpected Guests (Lv. 67)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>The Lure of the Dream</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "27.0",
+      "y": "21.0",
+      "z": "0.6"
+    }
+  },
+  {
     "id": 83,
     "type": "quest",
     "title": "The Hidden Truth (Lv. 61)",
@@ -1062,6 +1086,78 @@
       "x": "8.4",
       "y": "11.2",
       "z": "1.1"
+    }
+  },
+  {
+    "id": 85,
+    "type": "quest",
+    "title": "The Silence of the Gods (Lv. 67)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>The Lady of Bliss</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "31.6",
+      "y": "16.6",
+      "z": "1.1"
+    }
+  },
+  {
+    "id": 86,
+    "type": "field",
+    "title": "Current 1",
+    "summary": "<p>Becomes available during Main Story Quest <em>Rising Fortunes, Rising Spirits</em>.</p><p>From The Peering Stones, head east towards The Peaks exit. Just before the exit, is a ramp to the south, leading to a small camp. The Current is on a ledge behind a large tent near the ramp.</p>",
+    "url": "",
+    "coords": {
+      "x": "34.2",
+      "y": "30.0",
+      "z": "0.6"
+    }
+  },
+  {
+    "id": 87,
+    "type": "field",
+    "title": "Current 2",
+    "summary": "<p>Becomes available during Main Story Quest <em>Rising Fortunes, Rising Spirits</em>.</p><p>From The Peering Stones, head south and go clockwise around the large rockface. The Current will be found on the other side, in a ruin.</p>",
+    "url": "",
+    "coords": {
+      "x": "29.6",
+      "y": "28.8",
+      "z": "0.4"
+    }
+  },
+  {
+    "id": 88,
+    "type": "field",
+    "title": "Current 3",
+    "summary": "<p>Becomes available during Main Story Quest <em>Rising Fortunes, Rising Spirits</em>.</p><p>From The Peering Stones, head northwest to the settlement of Vira Nilya. The Current is on a small cliff overlooking the settlement.</p>",
+    "url": "",
+    "coords": {
+      "x": "27.9",
+      "y": "21.6",
+      "z": "0.7"
+    }
+  },
+  {
+    "id": 89,
+    "type": "field",
+    "title": "Current 4",
+    "summary": "<p>Becomes available during Main Story Quest <em>Rising Fortunes, Rising Spirits</em>.</p><p>From The Peering Stones, head northwest, through Vira Nilya, and then follow the path east to Djanan Qhat. Climb the winding path, then head to the left, and jump down the rocks to claim the Current.</p>",
+    "url": "",
+    "coords": {
+      "x": "35.7",
+      "y": "16.7",
+      "z": "1.6"
+    }
+  },
+  {
+    "id": 90,
+    "type": "field",
+    "title": "Current 5",
+    "summary": "<p>Becomes available during Main Story Quest <em>Rising Fortunes, Rising Spirits</em>.</p><p>Head west from The Peering Stones, and climb the rocks. The Current is on a rock facing Castellum Velodyna.</p>",
+    "url": "",
+    "coords": {
+      "x": "25.0",
+      "y": "26.2",
+      "z": "0.4"
     }
   },
   {
@@ -1125,6 +1221,42 @@
     }
   },
   {
+    "id": 96,
+    "type": "quest",
+    "title": "The Palace of Lost Souls (Lv. 63)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>Forever and Ever Apart</em>, and requires completion of the dungeon <em>Shisui of the Violet Tides</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "20.2",
+      "y": "20.1",
+      "z": "-2.0"
+    }
+  },
+  {
+    "id": 97,
+    "type": "quest",
+    "title": "The Sword in the Stone (Lv. 62)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>Of Kojin and Kami</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "32.7",
+      "y": "18.5",
+      "z": "-0.7"
+    }
+  },
+  {
+    "id": 98,
+    "type": "quest",
+    "title": "Pulling Double Booty (Lv. 62)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>Alisaie's Stones</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "23.4",
+      "y": "9.1",
+      "z": "0.0"
+    }
+  },
+  {
     "id": 99,
     "type": "quest",
     "title": "The Price of Betrayal (Lv. 62)",
@@ -1134,6 +1266,30 @@
       "x": "31.5",
       "y": "37.1",
       "z": "0.3"
+    }
+  },
+  {
+    "id": 100,
+    "type": "quest",
+    "title": "Tide Goes in, Imperials Go Out (Lv. 63)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>The Lord of the Revel</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "6.2",
+      "y": "12.3",
+      "z": "0.0"
+    }
+  },
+  {
+    "id": 101,
+    "type": "field",
+    "title": "Current 1",
+    "summary": "<p>Becomes available during Main Story Quest <em>In Soroban We Trust</em>.</p><p>From Tamamizu, dive underwater, and swim west to the Isle of Zikki entrance at x10.8, y25.0, z-1.0. Swim up to The Dive, and once on land, head southeast, following the path around until you find the Current.</p>",
+    "url": "",
+    "coords": {
+      "x": "7.9",
+      "y": "28.9",
+      "z": "0.2"
     }
   },
   {
@@ -1245,6 +1401,42 @@
     }
   },
   {
+    "id": 111,
+    "type": "quest",
+    "title": "Closing Up Shop (Lv. 69)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>Raubahn's Invitation</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "27.1",
+      "y": "36.5",
+      "z": "2.7"
+    }
+  },
+  {
+    "id": 112,
+    "type": "quest",
+    "title": "A Hunger for Trade (Lv. 68)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>Where Courage Endures</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "27.7",
+      "y": "28.7",
+      "z": "2.7"
+    }
+  },
+  {
+    "id": 113,
+    "type": "quest",
+    "title": "Out of Sight (Lv. 68)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>The Path Forward</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "14.9",
+      "y": "36.6",
+      "z": "2.2"
+    }
+  },
+  {
     "id": 114,
     "type": "quest",
     "title": "Saint Slayer (Lv. 61)",
@@ -1254,6 +1446,78 @@
       "x": "24.4",
       "y": "6.8",
       "z": "0.7"
+    }
+  },
+  {
+    "id": 115,
+    "type": "quest",
+    "title": "Liberty or Death (Lv. 69)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>Raubahn's Invitation</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "26.6",
+      "y": "36.3",
+      "z": "2.7"
+    }
+  },
+  {
+    "id": 116,
+    "type": "field",
+    "title": "Current 1",
+    "summary": "<p>Becomes available during Main Story Quest <em>Heavens Weep</em>.</p><p>Enter Specula Imperatoris, and exit via the east side. Follow the path as it wraps around, headed towards The Bull's Bath. The Current is on a small cliff overlooking a body of water. Can't miss it!</p>",
+    "url": "",
+    "coords": {
+      "x": "23.8",
+      "y": "31.8",
+      "z": "2.5"
+    }
+  },
+  {
+    "id": 117,
+    "type": "field",
+    "title": "Current 2",
+    "summary": "<p>Becomes available during Main Story Quest <em>Heavens Weep</em>.</p><p>Enter Specula Imperatoris, and its just north and down a staircase from the three towers.</p>",
+    "url": "",
+    "coords": {
+      "x": "21.2",
+      "y": "22.0",
+      "z": "2.5"
+    }
+  },
+  {
+    "id": 118,
+    "type": "field",
+    "title": "Current 3",
+    "summary": "<p>Becomes available during Main Story Quest <em>The First of Many</em>.</p><p>From Ala Ghiri, head north to Goodblade. You can't miss the Current on a wall by some barrels, overlooking the water.</p>",
+    "url": "",
+    "coords": {
+      "x": "16.7",
+      "y": "31.9",
+      "z": "2.2"
+    }
+  },
+  {
+    "id": 119,
+    "type": "field",
+    "title": "Current 4",
+    "summary": "<p>Becomes available during Main Story Quest <em>The First of Many</em>.</p><p>From the southwestern entrance via The Fringes, follow the path around, and then head back north. The Current is up the ramp, guarded by a Kongamato.</p>",
+    "url": "",
+    "coords": {
+      "x": "10.8",
+      "y": "26.4",
+      "z": "2.5"
+    }
+  },
+  {
+    "id": 120,
+    "type": "field",
+    "title": "Current 5",
+    "summary": "<p>Becomes available during Main Story Quest <em>The First of Many</em>.</p><p>From Ala Ghiri, head west towards The Choler. You'll see the Current on a broken bridge on your way. Simply ascend and collect!</p>",
+    "url": "",
+    "coords": {
+      "x": "8.2",
+      "y": "32.5",
+      "z": "2.2"
     }
   },
   {
@@ -1314,6 +1578,546 @@
       "x": "11.8",
       "y": "5.8",
       "z": "0.1"
+    }
+  },
+  {
+    "id": 126,
+    "type": "quest",
+    "title": "Wolves and Weeds (Lv. 64)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>The Ones We Leave Behind</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "30.1",
+      "y": "18.9",
+      "z": "0.7"
+    }
+  },
+  {
+    "id": 127,
+    "type": "quest",
+    "title": "Whacking Day (Lv. 64)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>The Ones We Leave Behind</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "30.7",
+      "y": "18.0",
+      "z": "0.6"
+    }
+  },
+  {
+    "id": 128,
+    "type": "quest",
+    "title": "Fly My Pretties (Lv. 64)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>The Stubborn Remainder</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "30.5",
+      "y": "17.7",
+      "z": "0.6"
+    }
+  },
+  {
+    "id": 129,
+    "type": "quest",
+    "title": "Something Smells (Lv. 64)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>The Stubborn Remainder</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "29.9",
+      "y": "15.6",
+      "z": "0.0"
+    }
+  },
+  {
+    "id": 130,
+    "type": "quest",
+    "title": "All the Little Angels (Lv. 64)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>The Time between the Seconds</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "31.2",
+      "y": "28.9",
+      "z": "0.1"
+    }
+  },
+  {
+    "id": 131,
+    "type": "field",
+    "title": "Current 1",
+    "summary": "<p>Becomes available during Main Story Quest <em>A Silence in Three Parts</em>.</p><p>From Namai, travel southwest across The Glittering Basin to the Yuzuka Manor. Head northwest, following the path, to The Swallow's Compass. The Current can be found up the staircase, on the left.</p>",
+    "url": "",
+    "coords": {
+      "x": "11.6",
+      "y": "27.7",
+      "z": "0.7"
+    }
+  },
+  {
+    "id": 132,
+    "type": "field",
+    "title": "Current 2",
+    "summary": "<p>Becomes available during Main Story Quest <em>A Silence in Three Parts</em>.</p><p>From Namai, travel southwest across The Glittering Basin to the Western Ryurin Bridge. The Current is hidden on the smaller, broken part of the bridge on the west bank. Just climb the short staircase to claim it.</p>",
+    "url": "",
+    "coords": {
+      "x": "19.7",
+      "y": "32.7",
+      "z": "0.1"
+    }
+  },
+  {
+    "id": 133,
+    "type": "field",
+    "title": "Current 3",
+    "summary": "<p>Becomes available during Main Story Quest <em>A Silence in Three Parts</em>.</p><p>From Namai, travel southwest across The Glittering Basin to the Yuzuka Manor. A short walk north, following the path as it snakes west, and then doubling back to climb a rock face will lead you to the next Current.</p>",
+    "url": "",
+    "coords": {
+      "x": "16.1",
+      "y": "29.4",
+      "z": "0.4"
+    }
+  },
+  {
+    "id": 134,
+    "type": "field",
+    "title": "Current 4",
+    "summary": "<p>Becomes available during Main Story Quest <em>A Silence in Three Parts</em>.</p><p>From Namai, travel directly south until you reach Castrum Fluminis. The Current is at the very end of the area, just past the large ring.</p>",
+    "url": "",
+    "coords": {
+      "x": "30.6",
+      "y": "37.9",
+      "z": "0.3"
+    }
+  },
+  {
+    "id": 135,
+    "type": "field",
+    "title": "Current 5",
+    "summary": "<p>Becomes available during Main Story Quest <em>A Silence in Three Parts</em>.</p><p>From Namai, head directly south over the bridge, and then southeast through the archway in the wall. Carry on south down the hill and dive into the water. Swim across and carry on south westernly to find the next current - surprisingly not on top of a rock, but rather at the bottom of a small hill.</p>",
+    "url": "",
+    "coords": {
+      "x": "24.6",
+      "y": "30.9",
+      "z": "0.0"
+    }
+  },
+  {
+    "id": 136,
+    "type": "field",
+    "title": "Current 6",
+    "summary": "<p>Becomes available during Main Story Quest <em>A Silence in Three Parts</em>.</p><p>From Namai, head directly south over the bridge, and then southwest to the large, broken stone arch. The Current sits in the middle, atop a steep hill.</p>",
+    "url": "",
+    "coords": {
+      "x": "29.8",
+      "y": "23.4",
+      "z": "0.9"
+    }
+  },
+  {
+    "id": 137,
+    "type": "field",
+    "title": "Current 7",
+    "summary": "<p>Becomes available during Main Story Quest <em>A Silence in Three Parts</em>.</p><p>From Namai, climb the hill in the northwest of the town, and at the peak head south. Follow the cliff along to its hightest point, overlooking The Glittering Basin, and you will see the Current.</p>",
+    "url": "",
+    "coords": {
+      "x": "24.7",
+      "y": "21.2",
+      "z": "1.4"
+    }
+  },
+  {
+    "id": 138,
+    "type": "field",
+    "title": "Current 8",
+    "summary": "<p>Becomes available during Main Story Quest <em>A Silence in Three Parts</em>.</p><p>From Namai, head directly south over the bridge, and then southeast through the archway in the wall. Carry on south down the hill until you see the Current sat on a peak.</p>",
+    "url": "",
+    "coords": {
+      "x": "31.4",
+      "y": "29.5",
+      "z": "0.1"
+    }
+  },
+  {
+    "id": 139,
+    "type": "field",
+    "title": "Current 9",
+    "summary": "<p>Becomes available during Main Story Quest <em>A Silence in Three Parts</em>.</p><p>From Namai, climb the hill in the northwest of the town, and you'll find the Current hidden behind one of the houses.</p>",
+    "url": "",
+    "coords": {
+      "x": "29.1",
+      "y": "16.8",
+      "z": "0.8"
+    }
+  },
+  {
+    "id": 140,
+    "type": "field",
+    "title": "Current 10",
+    "summary": "<p>Becomes available during Main Story Quest <em>A Silence in Three Parts</em>.</p><p>From Namai, head east to The Drunken Toad (near the exit to The Ruby Sea), and then south to Unseen Spirits Laughing. The Current is on a peak at the far eastern side of this area. Climb the rock to claim it.</p>",
+    "url": "",
+    "coords": {
+      "x": "39.3",
+      "y": "20.7",
+      "z": "1.5"
+    }
+  },
+  {
+    "id": 141,
+    "type": "quest",
+    "title": "Are They Ill Tempered (Lv. 69)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>The Legacy of Our Fathers</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "10.6",
+      "y": "22.5",
+      "z": "0.0"
+    }
+  },
+  {
+    "id": 142,
+    "type": "quest",
+    "title": "If I Were A Fish (Lv. 69)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>The Legacy of Our Fathers</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "8.2",
+      "y": "20.5",
+      "z": "0.5"
+    }
+  },
+  {
+    "id": 143,
+    "type": "quest",
+    "title": "A Rite to Rest (Lv. 69)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>Upon the Great Loch's Shore</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "10.9",
+      "y": "21.0",
+      "z": "0.1"
+    }
+  },
+  {
+    "id": 144,
+    "type": "quest",
+    "title": "It's a Zu Out There (Lv. 69)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>Upon the Great Loch's Shore</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "11.3",
+      "y": "20.6",
+      "z": "0.1"
+    }
+  },
+  {
+    "id": 145,
+    "type": "quest",
+    "title": "Stormblood (Lv. 70)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>The Measure of His Reach</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "32.6",
+      "y": "22.9",
+      "z": "1.6"
+    }
+  },
+  {
+    "id": 146,
+    "type": "field",
+    "title": "Current 1",
+    "summary": "<p>Becomes available during Main Story Quest <em>The Resonant</em>.</p><p>From The Ala Mhigan Quarter, head north down the staircase and continue straight, down an alley, until you hit a fork. Turn right and head up the staircase here. Mount up, and use the flat platform on the roof to jump to the next building to the southeast. Follow this rooftop, and you'll find the Current.</p>",
+    "url": "",
+    "coords": {
+      "x": "29.4",
+      "y": "22.8",
+      "z": "1.1"
+    }
+  },
+  {
+    "id": 147,
+    "type": "field",
+    "title": "Current 2",
+    "summary": "<p>Becomes available during Main Story Quest <em>Upon the Great Loch's Shore</em>.</p><p>From Porta Praetoria, head east, and climb The White Aisle. When you see the overpass, climb either of the two towers flanking it, and circle around to climb the stairs. The Current waits at the top.</p>",
+    "url": "",
+    "coords": {
+      "x": "29.4",
+      "y": "22.8",
+      "z": "1.1"
+    }
+  },
+  {
+    "id": 148,
+    "type": "field",
+    "title": "Current 3",
+    "summary": "<p>Becomes available during Main Story Quest <em>Upon the Great Loch's Shore</em>.</p><p>From Porta Praetoria, head southeast to Sali Monastery. Enter building and exit through the hole in the wall at the back. The Current is just ahead.</p>",
+    "url": "",
+    "coords": {
+      "x": "23.6",
+      "y": "37.2",
+      "z": "0.4"
+    }
+  },
+  {
+    "id": 149,
+    "type": "field",
+    "title": "Current 4",
+    "summary": "<p>Becomes available during Main Story Quest <em>Upon the Great Loch's Shore</em>.</p><p>From Porta Praetoria, head south, following the long path starting at The Firkins, all the way to Sothwatch. The Current is hidden behind the tower here.</p>",
+    "url": "",
+    "coords": {
+      "x": "13.3",
+      "y": "36.2",
+      "z": "2.0"
+    }
+  },
+  {
+    "id": 150,
+    "type": "field",
+    "title": "Current 5",
+    "summary": "<p>Becomes available during Main Story Quest <em>Upon the Great Loch's Shore</em>.</p><p>From Porta Praetoria, head southeast towards The Saltery, and climb the staircase, Continue southeastt to the Lochwatch, a tower you can pass under, and drop to a ledge below the south side, to gain the Current.</p>",
+    "url": "",
+    "coords": {
+      "x": "18.0",
+      "y": "30.9",
+      "z": "0.3"
+    }
+  },
+  {
+    "id": 151,
+    "type": "field",
+    "title": "Current 6",
+    "summary": "<p>Becomes available during Main Story Quest <em>Upon the Great Loch's Shore</em>.</p><p>From Porta Praetoria, head east to Loch Seld. The current is on the northeasten shore, below the giant staircase.</p>",
+    "url": "",
+    "coords": {
+      "x": "22.5",
+      "y": "16.3",
+      "z": "0.0"
+    }
+  },
+  {
+    "id": 152,
+    "type": "field",
+    "title": "Current 7",
+    "summary": "<p>Becomes available during Main Story Quest <em>Upon the Great Loch's Shore</em>.</p><p>From Porta Praetoria, head northeast, around Loch Seld, and into Abalathia's Skull. Head further east, and climb the path leading to The Third Royal Casern. The Current awaits you at the end.</p>",
+    "url": "",
+    "coords": {
+      "x": "34.9",
+      "y": "7.2",
+      "z": "1.1"
+    }
+  },
+  {
+    "id": 153,
+    "type": "field",
+    "title": "Current 8",
+    "summary": "<p>Becomes available during Main Story Quest <em>Upon the Great Loch's Shore</em>.</p><p>From Porta Praetoria, go northeast, and cross the short rock bridge. Carry on along this path until you can cross another bridge southeast. Follow further along this path, climb up some rocks, and drop onto another peak, and you'll see the Current just ahead.</p>",
+    "url": "",
+    "coords": {
+      "x": "14.3",
+      "y": "21.7",
+      "z": "0.2"
+    }
+  },
+  {
+    "id": 154,
+    "type": "field",
+    "title": "Current 9",
+    "summary": "<p>Becomes available during Main Story Quest <em>Upon the Great Loch's Shore</em>.</p><p>From Porta Praetoria, head north through The High Bank, following the path around until you reach a series of rocky pathways. Ascend the ramps and double back on yourself to find a ledge you can drop to with the Current.</p>",
+    "url": "",
+    "coords": {
+      "x": "15.0",
+      "y": "12.3",
+      "z": "0.5"
+    }
+  },
+  {
+    "id": 155,
+    "type": "field",
+    "title": "Current 10",
+    "summary": "<p>Becomes available during Main Story Quest <em>Upon the Great Loch's Shore</em>.</p><p>So here we are. Aether Currents Savage. The Aether Compass' Bane (seriously, this one would not stop being triggered by my compass from anywhere).</p><p>Your first port of call is Abalathia's Skull. Head west into The Song of Kings. Keep following this path along until eventually you emerge to daylight in The Royal Hunting Grounds.</p><p>Now head south, and keep west at the fork in the road. Follow the path around until you are above the wall in High Bank, and you can drop down to claim your Current.</p>",
+    "url": "",
+    "coords": {
+      "x": "8.6",
+      "y": "15.6",
+      "z": "0.6"
+    }
+  },
+  {
+    "id": 156,
+    "type": "quest",
+    "title": "Mauci of the Seven Worries (Lv. 66)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>The Undying Ones</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "12.7",
+      "y": "34.4",
+      "z": "0.0"
+    }
+  },
+  {
+    "id": 157,
+    "type": "quest",
+    "title": "Forty Years and Counting (Lv. 66)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>For Love of the Moon</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "23.0",
+      "y": "23.3",
+      "z": "1.1"
+    }
+  },
+  {
+    "id": 158,
+    "type": "quest",
+    "title": "Sheep Snatcher (Lv. 65)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>The Heart of Nations</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "28.3",
+      "y": "14.9",
+      "z": "0.2"
+    }
+  },
+  {
+    "id": 159,
+    "type": "quest",
+    "title": "Words Are Very Unnecessary (Lv. 65)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>A Season for War</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "32.9",
+      "y": "28.3",
+      "z": "-0.3"
+    }
+  },
+  {
+    "id": 160,
+    "type": "quest",
+    "title": "Glory to the Khagan (Lv. 66)",
+    "summary": "<p>This quest is available upon completion of the Main Story Quest <em>Naadam</em>.</p>",
+    "url": "",
+    "coords": {
+      "x": "31.2",
+      "y": "12.1",
+      "z": "0.3"
+    }
+  },
+  {
+    "id": 161,
+    "type": "field",
+    "title": "Current 1",
+    "summary": "<p>Becomes available during Main Story Quest <em>Here There Be Xaela</em>.</p><p>From Reunion, head directly west. The Current is hidden under some flags.</p>",
+    "url": "",
+    "coords": {
+      "x": "23.6",
+      "y": "29.2",
+      "z": "-0.2"
+    }
+  },
+  {
+    "id": 162,
+    "type": "field",
+    "title": "Current 2",
+    "summary": "<p>Becomes available during Main Story Quest <em>Here There Be Xaela</em>.</p><p>From The Dawn Throne, head south to The Dusk Throne. A short way to the west is a staggered rock formation, with the Current awaiting you at the end.</p>",
+    "url": "",
+    "coords": {
+      "x": "15.3",
+      "y": "34.4",
+      "z": "0.1"
+    }
+  },
+  {
+    "id": 163,
+    "type": "field",
+    "title": "Current 3",
+    "summary": "<p>Becomes available during Main Story Quest <em>Here There Be Xaela</em>.</p><p>From The Dawn Throne, head southwest to The Hundred-and-one Revelations. Enter the caves here, and you'll find the Current on a rock jutting out of the ground.</p>",
+    "url": "",
+    "coords": {
+      "x": "8.6",
+      "y": "35.5",
+      "z": "0.0"
+    }
+  },
+  {
+    "id": 164,
+    "type": "field",
+    "title": "Current 4",
+    "summary": "<p>Becomes available during Main Story Quest <em>Here There Be Xaela</em>.</p><p>From The Dawn Throne, head southwest to The Hundred-and-one Revelations. Enter the caves here, and you'll find the Current on a rock jutting out of the ground.</p>",
+    "url": "",
+    "coords": {
+      "x": "5.9",
+      "y": "28.4",
+      "z": "0.1"
+    }
+  },
+  {
+    "id": 165,
+    "type": "field",
+    "title": "Current 5",
+    "summary": "<p>Becomes available during Main Story Quest <em>Here There Be Xaela</em>.</p><p>From The Dawn Throne, head west following the river. When the river forks, follow it north, and you'll find the Current in a tunnel.</p>",
+    "url": "",
+    "coords": {
+      "x": "13.2",
+      "y": "20.9",
+      "z": "0.2"
+    }
+  },
+  {
+    "id": 166,
+    "type": "field",
+    "title": "Current 6",
+    "summary": "<p>Becomes available during Main Story Quest <em>The Children of Azim</em>.</p><p>From The Dawn Throne Aetheryte, head north to the Falcon Porter. The Current sits at the end of the mock runway.</p>",
+    "url": "",
+    "coords": {
+      "x": "23.5",
+      "y": "20.4",
+      "z": "1.1"
+    }
+  },
+  {
+    "id": 167,
+    "type": "field",
+    "title": "Current 7",
+    "summary": "<p>Becomes available during Main Story Quest <em>Here There Be Xaela</em>.</p><p>From The Dawn Throne, head northwest towards Ceol Aen. The Current is sat in plain sight on a fallen pillar.</p>",
+    "url": "",
+    "coords": {
+      "x": "16.1",
+      "y": "14.2",
+      "z": "0.6"
+    }
+  },
+  {
+    "id": 168,
+    "type": "field",
+    "title": "Current 8",
+    "summary": "<p>Becomes available during Main Story Quest <em>Here There Be Xaela</em>.</p><p>From The Dawn Throne, head north, and scale the cliff near Moonrise. Follow the cliff face along to the east, and you'll find the Current hidden on a small ledge just below. Look before you leap!</p>",
+    "url": "",
+    "coords": {
+      "x": "27.1",
+      "y": "12.3",
+      "z": "0.8"
+    }
+  },
+  {
+    "id": 169,
+    "type": "field",
+    "title": "Current 9",
+    "summary": "<p>Becomes available during Main Story Quest <em>Here There Be Xaela</em>.</p><p>From Reunion, head north to The Path of the Craven. The Current is resting at the start of a broken rope bridge.</p>",
+    "url": "",
+    "coords": {
+      "x": "36.3",
+      "y": "17.5",
+      "z": "-0.1"
+    }
+  },
+  {
+    "id": 170,
+    "type": "field",
+    "title": "Current 10",
+    "summary": "<p>Becomes available during Main Story Quest <em>Here There Be Xaela</em>.</p><p>From Reunion, head south out of the town, and drop into the small chasm. The Current is directly ahead, to the east.</p>",
+    "url": "",
+    "coords": {
+      "x": "33.9",
+      "y": "30.6",
+      "z": "-0.4"
     }
   }
 ]
