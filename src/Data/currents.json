@@ -1827,9 +1827,9 @@
     "summary": "<p>Becomes available during Main Story Quest <em>The Resonant</em>.</p><p>From The Ala Mhigan Quarter, head north down the staircase and continue straight, down an alley, until you hit a fork. Turn right and head up the staircase here. Mount up, and use the flat platform on the roof to jump to the next building to the southeast. Follow this rooftop, and you'll find the Current.</p>",
     "url": "",
     "coords": {
-      "x": "29.4",
-      "y": "22.8",
-      "z": "1.1"
+      "x": "34.9",
+      "y": "31.6",
+      "z": "0.8"
     }
   },
   {
@@ -1848,24 +1848,24 @@
     "id": 148,
     "type": "field",
     "title": "Current 3",
-    "summary": "<p>Becomes available during Main Story Quest <em>Upon the Great Loch's Shore</em>.</p><p>From Porta Praetoria, head southeast to Sali Monastery. Enter building and exit through the hole in the wall at the back. The Current is just ahead.</p>",
-    "url": "",
-    "coords": {
-      "x": "23.6",
-      "y": "37.2",
-      "z": "0.4"
-    }
-  },
-  {
-    "id": 149,
-    "type": "field",
-    "title": "Current 4",
     "summary": "<p>Becomes available during Main Story Quest <em>Upon the Great Loch's Shore</em>.</p><p>From Porta Praetoria, head south, following the long path starting at The Firkins, all the way to Sothwatch. The Current is hidden behind the tower here.</p>",
     "url": "",
     "coords": {
       "x": "13.3",
       "y": "36.2",
       "z": "2.0"
+    }
+  },
+  {
+    "id": 149,
+    "type": "field",
+    "title": "Current 4",
+    "summary": "<p>Becomes available during Main Story Quest <em>Upon the Great Loch's Shore</em>.</p><p>From Porta Praetoria, head southeast to Sali Monastery. Enter building and exit through the hole in the wall at the back. The Current is just ahead.</p>",
+    "url": "",
+    "coords": {
+      "x": "23.6",
+      "y": "37.2",
+      "z": "0.4"
     }
   },
   {
