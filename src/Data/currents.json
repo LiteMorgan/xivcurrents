@@ -1128,24 +1128,24 @@
     "id": 88,
     "type": "field",
     "title": "Current 3",
-    "summary": "<p>Becomes available during Main Story Quest <em>Rising Fortunes, Rising Spirits</em>.</p><p>From The Peering Stones, head northwest to the settlement of Vira Nilya. The Current is on a small cliff overlooking the settlement.</p>",
-    "url": "",
-    "coords": {
-      "x": "27.9",
-      "y": "21.6",
-      "z": "0.7"
-    }
-  },
-  {
-    "id": 89,
-    "type": "field",
-    "title": "Current 4",
     "summary": "<p>Becomes available during Main Story Quest <em>Rising Fortunes, Rising Spirits</em>.</p><p>From The Peering Stones, head northwest, through Vira Nilya, and then follow the path east to Djanan Qhat. Climb the winding path, then head to the left, and jump down the rocks to claim the Current.</p>",
     "url": "",
     "coords": {
       "x": "35.7",
       "y": "16.7",
       "z": "1.6"
+    }
+  },
+  {
+    "id": 89,
+    "type": "field",
+    "title": "Current 4",
+    "summary": "<p>Becomes available during Main Story Quest <em>Rising Fortunes, Rising Spirits</em>.</p><p>From The Peering Stones, head northwest to the settlement of Vira Nilya. The Current is on a small cliff overlooking the settlement.</p>",
+    "url": "",
+    "coords": {
+      "x": "27.9",
+      "y": "21.6",
+      "z": "0.7"
     }
   },
   {
@@ -1848,24 +1848,24 @@
     "id": 148,
     "type": "field",
     "title": "Current 3",
-    "summary": "<p>Becomes available during Main Story Quest <em>Upon the Great Loch's Shore</em>.</p><p>From Porta Praetoria, head south, following the long path starting at The Firkins, all the way to Sothwatch. The Current is hidden behind the tower here.</p>",
-    "url": "",
-    "coords": {
-      "x": "13.3",
-      "y": "36.2",
-      "z": "2.0"
-    }
-  },
-  {
-    "id": 149,
-    "type": "field",
-    "title": "Current 4",
     "summary": "<p>Becomes available during Main Story Quest <em>Upon the Great Loch's Shore</em>.</p><p>From Porta Praetoria, head southeast to Sali Monastery. Enter building and exit through the hole in the wall at the back. The Current is just ahead.</p>",
     "url": "",
     "coords": {
       "x": "23.6",
       "y": "37.2",
       "z": "0.4"
+    }
+  },
+  {
+    "id": 149,
+    "type": "field",
+    "title": "Current 4",
+    "summary": "<p>Becomes available during Main Story Quest <em>Upon the Great Loch's Shore</em>.</p><p>From Porta Praetoria, head south, following the long path starting at The Firkins, all the way to Sothwatch. The Current is hidden behind the tower here.</p>",
+    "url": "",
+    "coords": {
+      "x": "13.3",
+      "y": "36.2",
+      "z": "2.0"
     }
   },
   {
