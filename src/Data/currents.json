@@ -1284,7 +1284,7 @@
     "id": 101,
     "type": "field",
     "title": "Current 1",
-    "summary": "<p>Becomes available during Main Story Quest <em>In Soroban We Trust</em>.</p><p>From Tamamizu, dive underwater, and swim west to the Isle of Zikki entrance at x10.8, y25.0, z-1.0. Swim up to The Dive, and once on land, head southeast, following the path around until you find the Current.</p>",
+    "summary": "<p>Becomes available during Main Story Quest <em>In Soroban We Trust</em>.</p><p>From Tamamizu, dive underwater, and swim west to the Isle of Zikki entrance at x10.8, y25.0, z-1.0. Swim up to The Dive, and once on land, head southwest, following the path around until you find the Current.</p>",
     "url": "",
     "coords": {
       "x": "7.9",
@@ -2028,7 +2028,7 @@
     "id": 163,
     "type": "field",
     "title": "Current 3",
-    "summary": "<p>Becomes available during Main Story Quest <em>Here There Be Xaela</em>.</p><p>From The Dawn Throne, head southwest to The Hundred-and-one Revelations. Enter the caves here, and you'll find the Current on a rock jutting out of the ground.</p>",
+    "summary": "<p>Becomes available during Main Story Quest <em>Here There Be Xaela</em>.</p><p>From The Dawn Throne, head southwest through Dotharl Khaa, and keep going until you reach a cliff face overlooking the desert. The Current will be in plain sight here.</p>",
     "url": "",
     "coords": {
       "x": "8.6",
