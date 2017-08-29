@@ -59,8 +59,8 @@
     "summary": "This quest is available upon completion of the Main Story Quest <em>Camp of the Convictor</em>.",
     "url": "",
     "coords": {
-      "x": "0",
-      "y": "0",
+      "x": "16.4",
+      "y": "22.4",
       "z": "0"
     }
   },
@@ -254,8 +254,8 @@
     "summary": "This quest is available upon completion of the Main Story Quest <em>Lord of the Hive</em>, and requires completion of <em>Sohm Al</em>.",
     "url": "",
     "coords": {
-      "x": "0",
-      "y": "0",
+      "x": "23.7",
+      "y": "19.3",
       "z": "0"
     }
   },
